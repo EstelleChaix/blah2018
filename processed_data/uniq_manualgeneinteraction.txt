@@ -1,204 +1,204 @@
-TYPE	ARG1 NORMALIZATION	ARG2 NORMALIZATION
-Binds_To	AT5G13790	AT5G13790
-Regulates_Expression_Of	AT3G54320	AT5G15530
-Regulates_Accumulation_Of	AT1G28300	AT3G54320
-Regulates_Expression_Of	AT3G54320	AT5G15530
-Regulates_Expression_Of	AT4G18960	AT2G17950
-Regulates_Expression_Of	AT4G36920	AT4G18960
-Regulates_Expression_Of	AT4G36920	AT2G27250
-Regulates_Expression_Of	AT4G18960	AT2G17950
-Regulates_Expression_Of	AT4G36920	AT2G17950
-Regulates_Expression_Of	AT4G18960	AT2G17950
-Binds_To	AT3G54620	AT3G62420
-Binds_To	AT3G24650	AT3G62420
-Regulates_Expression_Of	AT2G25170	AT1G21970
-Regulates_Expression_Of	AT4G36920	AT4G36920
-Regulates_Expression_Of	AT4G36920	AT4G17500
-Regulates_Expression_Of	AT5G03280	AT4G36920
-Regulates_Expression_Of	AT4G36920	AT3G16770
-Regulates_Expression_Of	AT5G03280	AT4G36920
-Regulates_Expression_Of	AT4G36920	AT3G16770
-Regulates_Expression_Of	AT4G36920	AT4G36920
-Regulates_Expression_Of	AT3G20770	AT3G16770
-Regulates_Expression_Of	AT4G36920	AT3G16770
-Regulates_Expression_Of	AT4G36920	AT4G18960
-Regulates_Expression_Of	AT4G36920	AT4G17500
-Regulates_Expression_Of	AT4G36920	AT3G16770
-Regulates_Expression_Of	AT4G36920	AT4G36920
-Regulates_Expression_Of	AT5G03280	AT3G16770
-Regulates_Expression_Of	AT5G03280	AT4G36920
-Regulates_Expression_Of	AT3G16770	AT4G36920
-Regulates_Expression_Of	AT4G36920	AT4G17500
-Regulates_Expression_Of	AT4G36920	AT3G16770
-Regulates_Expression_Of	AT4G36920	AT4G36920
-Regulates_Expression_Of	AT3G20770	AT3G16770
-Regulates_Expression_Of	AT5G03280	AT4G36920
-Regulates_Expression_Of	AT3G16770	AT4G36920
-Regulates_Expression_Of	AT3G20770	AT3G16770
-Regulates_Expression_Of	AT4G36920	AT4G18960
-Regulates_Expression_Of	AT3G20770	AT3G16770
-Regulates_Expression_Of	AT5G03280	AT4G36920
-Interacts_With	AT1G21970	AT1G28300
-Interacts_With	AT1G21970	AT3G26790
-Interacts_With	AT3G24650	AT1G28300
-Interacts_With	AT3G26790	AT3G24650
-Interacts_With	AT3G24650	AT1G21970
-Interacts_With	AT1G28300	AT3G26790
-Binds_To	AT5G13790	AT1G24260
-Binds_To	AT4G38130	AT5G13790
-Binds_To	AT5G13790	AT3G57390
-Binds_To	AT2G45640	AT5G13790
-Binds_To	AT5G13790	AT1G24260
-Binds_To	AT5G13790	AT1G69120
-Binds_To	AT2G45640	AT3G57390
-Binds_To	AT4G38130	AT5G13790
-Binds_To	AT1G43850	AT1G24260
-Binds_To	AT5G13790	AT4G25470
-Regulates_Activity_Of	AT5G13790	AT3G57390
-Regulates_Activity_Of	AT5G13790	AT4G25470
-Interacts_With	AT1G69120	AT4G32551
-Interacts_With	AT1G24260	AT4G32551
-Interacts_With	AT2G45640	AT1G50640
-Interacts_With	AT2G45640	AT2G22540
-Interacts_With	AT1G69120	AT1G43850
-Interacts_With	AT1G24260	AT1G43850
-Interacts_With	AT2G45640	AT5G13790
-Interacts_With	AT2G45640	AT4G24540
-Interacts_With	AT2G45640	AT1G50640
-Interacts_With	AT5G13790	AT2G45640
-Interacts_With	AT2G45640	AT5G63110
-Interacts_With	AT2G45640	AT3G15210
-Interacts_With	AT5G13790	AT2G45640
-Regulates_Expression_Of	AT3G57390	AT4G25470
-Regulates_Expression_Of	AT5G13790	AT5G13790
-Binds_To	AT5G13790	AT1G24260
-Binds_To	AT5G13790	AT3G57390
-Binds_To	AT5G13790	AT1G24260
-Binds_To	AT5G13790	AT1G69120
-Binds_To	AT2G45640	AT3G57390
-Binds_To	AT5G13790	AT4G25470
-Regulates_Activity_Of	AT5G13790	AT3G57390
-Regulates_Activity_Of	AT5G13790	AT4G25470
-Interacts_With	AT2G45640	AT1G50640
-Interacts_With	AT2G45640	AT2G22540
-Interacts_With	AT5G13790	AT2G45640
-Regulates_Expression_Of	AT1G09540	AT1G53500
-Regulates_Expression_Of	AT5G24520	AT1G79840
-Regulates_Expression_Of	AT4G36920	AT2G37260
-Regulates_Expression_Of	AT1G63650	AT1G79840
-Regulates_Expression_Of	AT4G36920	AT5G24520
-Regulates_Expression_Of	AT5G24520	AT2G37260
-Regulates_Expression_Of	AT1G79840	AT1G53500
-Regulates_Expression_Of	AT4G36920	AT1G53500
-Regulates_Expression_Of	AT4G36920	AT2G37260
-Regulates_Expression_Of	AT1G63650	AT1G79840
-Regulates_Expression_Of	AT1G79840	AT1G53500
-Regulates_Expression_Of	AT4G09820	AT2G37260
-Regulates_Expression_Of	AT5G24520	AT2G37260
-Regulates_Expression_Of	AT4G36920	AT1G09540
-Regulates_Expression_Of	AT1G79840	AT1G53500
-Regulates_Expression_Of	AT5G24520	AT1G79840
-Regulates_Expression_Of	AT5G24520	AT2G37260
-Regulates_Expression_Of	AT4G36920	AT1G53500
-Regulates_Expression_Of	AT4G09820	AT1G79840
-Regulates_Expression_Of	AT2G37260	AT1G53500
-Regulates_Expression_Of	AT5G24520	AT1G53500
-Regulates_Expression_Of	AT5G24520	AT2G37260
-Regulates_Expression_Of	AT5G24520	AT1G53500
-Regulates_Expression_Of	AT5G24520	AT2G37260
-Regulates_Expression_Of	AT5G24520	AT1G79840
-Regulates_Expression_Of	AT4G36920	AT1G79840
-Regulates_Expression_Of	AT5G24520	AT1G79840
-Regulates_Expression_Of	AT1G79840	AT1G53500
-Regulates_Expression_Of	AT5G24520	AT1G79840
-Regulates_Expression_Of	AT4G36920	AT1G53500
-Regulates_Expression_Of	AT1G79840	AT1G53500
-Regulates_Expression_Of	AT5G24520	AT1G53500
-Regulates_Expression_Of	AT5G24520	AT2G37260
-Regulates_Expression_Of	AT5G24520	AT1G79840
-Regulates_Expression_Of	AT5G24520	AT2G37260
-Regulates_Expression_Of	AT5G24520	AT1G79840
-Regulates_Expression_Of	AT4G36920	AT1G79840
-Interacts_With	AT4G09820	AT4G36920
-Interacts_With	AT4G09820	AT5G24520
-Interacts_With	AT4G36920	AT5G24520
-Interacts_With	AT1G63650	AT5G24520
-Interacts_With	AT4G09820	AT5G24520
-Interacts_With	AT5G24520	AT5G41315
-Interacts_With	AT1G63650	AT4G36920
-Regulates_Expression_Of	AT1G09540	AT1G53500
-Regulates_Expression_Of	AT5G24520	AT1G79840
-Regulates_Expression_Of	AT4G36920	AT2G37260
-Regulates_Expression_Of	AT5G24520	AT2G37260
-Regulates_Expression_Of	AT1G79840	AT1G53500
-Regulates_Expression_Of	AT5G24520	AT2G37260
-Regulates_Expression_Of	AT5G24520	AT1G79840
-Regulates_Expression_Of	AT4G36920	AT1G53500
-Regulates_Expression_Of	AT2G37260	AT1G53500
-Regulates_Expression_Of	AT5G24520	AT1G53500
-Regulates_Expression_Of	AT5G24520	AT2G37260
-Regulates_Expression_Of	AT5G24520	AT1G53500
-Regulates_Expression_Of	AT5G24520	AT2G37260
-Regulates_Expression_Of	AT5G24520	AT1G79840
-Regulates_Expression_Of	AT4G36920	AT1G53500
-Regulates_Expression_Of	AT1G79840	AT1G53500
-Regulates_Expression_Of	AT5G24520	AT2G37260
-Regulates_Expression_Of	AT5G24520	AT1G79840
-Regulates_Expression_Of	AT5G24520	AT2G37260
-Regulates_Expression_Of	AT4G36920	AT1G79840
-Interacts_With	AT4G09820	AT5G24520
-Interacts_With	AT1G63650	AT5G24520
-Interacts_With	AT4G26080	AT2G36270
-Interacts_With	AT4G26080	AT2G40220
-Interacts_With	AT2G36270	AT3G24650
-Interacts_With	AT2G36270	AT2G36270
-Interacts_With	AT3G24650	AT2G36270
-Interacts_With	AT2G36270	AT2G36270
-Interacts_With	AT2G36270	AT3G24650
-Interacts_With	AT2G40220	AT2G36270
-Interacts_With	AT2G36270	AT3G24650
-Interacts_With	AT2G40220	AT2G40220
-Interacts_With	AT3G24650	AT2G36270
-Interacts_With	AT2G36270	AT3G24650
-Binds_To	AT2G36270	AT2G36270
-Interacts_With	AT2G36270	AT3G24650
-Interacts_With	AT3G24650	AT2G36270
-Interacts_With	AT2G36270	AT2G36270
-Binds_To	AT2G36270	AT2G36270
-Regulates_Expression_Of	AT3G54320	AT5G15530
-Interacts_With	AT3G09840	AT1G71830
-Interacts_With	AT4G39400	AT1G71830
-Interacts_With	AT4G39400	AT4G33430
-Interacts_With	AT1G71830	AT5G19280
-Interacts_With	AT1G71830	AT4G39400
-Interacts_With	AT5G19280	AT4G28490
-Interacts_With	AT5G19280	AT1G75820
-Interacts_With	AT4G33430	AT4G39400
-Interacts_With	AT1G71830	AT4G33430
-Interacts_With	AT4G33430	AT4G39400
-Interacts_With	AT1G71830	AT4G39400
-Interacts_With	AT1G71830	AT5G19280
-Interacts_With	AT5G19280	AT5G46330
-Interacts_With	AT1G71830	AT4G39400
-Interacts_With	AT1G71830	AT4G33430
-Regulates_Activity_Of	AT5G19280	AT1G75820
-Regulates_Activity_Of	AT5G19280	AT5G46330
-Binds_To	AT1G71830	AT4G39400
-Binds_To	AT4G33430	AT4G39400
-Binds_To	AT1G71830	AT1G71830
-Binds_To	AT3G27310	AT3G09840
-Binds_To	AT4G24540	AT5G67280
-Binds_To	AT4G39400	AT4G39400
-Binds_To	AT4G39400	AT1G71830
-Binds_To	AT3G09840	AT3G09840
-Interacts_With	AT3G09840	AT1G71830
-Interacts_With	AT4G39400	AT1G71830
-Interacts_With	AT4G39400	AT4G33430
-Interacts_With	AT1G71830	AT4G39400
-Interacts_With	AT4G33430	AT4G39400
-Interacts_With	AT1G71830	AT4G39400
-Interacts_With	AT1G71830	AT5G19280
-Binds_To	AT1G71830	AT1G71830
-Binds_To	AT4G24540	AT5G67280
-Binds_To	AT4G39400	AT4G39400
-Binds_To	AT4G39400	AT1G71830
+TYPE	ARG1 NORMALIZATION	ARG2 NORMALIZATION	Manual
+Binds_To	AT5G13790	AT5G13790	Manual
+Regulates_Expression_Of	AT3G54320	AT5G15530	Manual
+Regulates_Accumulation_Of	AT1G28300	AT3G54320	Manual
+Regulates_Expression_Of	AT3G54320	AT5G15530	Manual
+Regulates_Expression_Of	AT4G18960	AT2G17950	Manual
+Regulates_Expression_Of	AT4G36920	AT4G18960	Manual
+Regulates_Expression_Of	AT4G36920	AT2G27250	Manual
+Regulates_Expression_Of	AT4G18960	AT2G17950	Manual
+Regulates_Expression_Of	AT4G36920	AT2G17950	Manual
+Regulates_Expression_Of	AT4G18960	AT2G17950	Manual
+Binds_To	AT3G54620	AT3G62420	Manual
+Binds_To	AT3G24650	AT3G62420	Manual
+Regulates_Expression_Of	AT2G25170	AT1G21970	Manual
+Regulates_Expression_Of	AT4G36920	AT4G36920	Manual
+Regulates_Expression_Of	AT4G36920	AT4G17500	Manual
+Regulates_Expression_Of	AT5G03280	AT4G36920	Manual
+Regulates_Expression_Of	AT4G36920	AT3G16770	Manual
+Regulates_Expression_Of	AT5G03280	AT4G36920	Manual
+Regulates_Expression_Of	AT4G36920	AT3G16770	Manual
+Regulates_Expression_Of	AT4G36920	AT4G36920	Manual
+Regulates_Expression_Of	AT3G20770	AT3G16770	Manual
+Regulates_Expression_Of	AT4G36920	AT3G16770	Manual
+Regulates_Expression_Of	AT4G36920	AT4G18960	Manual
+Regulates_Expression_Of	AT4G36920	AT4G17500	Manual
+Regulates_Expression_Of	AT4G36920	AT3G16770	Manual
+Regulates_Expression_Of	AT4G36920	AT4G36920	Manual
+Regulates_Expression_Of	AT5G03280	AT3G16770	Manual
+Regulates_Expression_Of	AT5G03280	AT4G36920	Manual
+Regulates_Expression_Of	AT3G16770	AT4G36920	Manual
+Regulates_Expression_Of	AT4G36920	AT4G17500	Manual
+Regulates_Expression_Of	AT4G36920	AT3G16770	Manual
+Regulates_Expression_Of	AT4G36920	AT4G36920	Manual
+Regulates_Expression_Of	AT3G20770	AT3G16770	Manual
+Regulates_Expression_Of	AT5G03280	AT4G36920	Manual
+Regulates_Expression_Of	AT3G16770	AT4G36920	Manual
+Regulates_Expression_Of	AT3G20770	AT3G16770	Manual
+Regulates_Expression_Of	AT4G36920	AT4G18960	Manual
+Regulates_Expression_Of	AT3G20770	AT3G16770	Manual
+Regulates_Expression_Of	AT5G03280	AT4G36920	Manual
+Interacts_With	AT1G21970	AT1G28300	Manual
+Interacts_With	AT1G21970	AT3G26790	Manual
+Interacts_With	AT3G24650	AT1G28300	Manual
+Interacts_With	AT3G26790	AT3G24650	Manual
+Interacts_With	AT3G24650	AT1G21970	Manual
+Interacts_With	AT1G28300	AT3G26790	Manual
+Binds_To	AT5G13790	AT1G24260	Manual
+Binds_To	AT4G38130	AT5G13790	Manual
+Binds_To	AT5G13790	AT3G57390	Manual
+Binds_To	AT2G45640	AT5G13790	Manual
+Binds_To	AT5G13790	AT1G24260	Manual
+Binds_To	AT5G13790	AT1G69120	Manual
+Binds_To	AT2G45640	AT3G57390	Manual
+Binds_To	AT4G38130	AT5G13790	Manual
+Binds_To	AT1G43850	AT1G24260	Manual
+Binds_To	AT5G13790	AT4G25470	Manual
+Regulates_Activity_Of	AT5G13790	AT3G57390	Manual
+Regulates_Activity_Of	AT5G13790	AT4G25470	Manual
+Interacts_With	AT1G69120	AT4G32551	Manual
+Interacts_With	AT1G24260	AT4G32551	Manual
+Interacts_With	AT2G45640	AT1G50640	Manual
+Interacts_With	AT2G45640	AT2G22540	Manual
+Interacts_With	AT1G69120	AT1G43850	Manual
+Interacts_With	AT1G24260	AT1G43850	Manual
+Interacts_With	AT2G45640	AT5G13790	Manual
+Interacts_With	AT2G45640	AT4G24540	Manual
+Interacts_With	AT2G45640	AT1G50640	Manual
+Interacts_With	AT5G13790	AT2G45640	Manual
+Interacts_With	AT2G45640	AT5G63110	Manual
+Interacts_With	AT2G45640	AT3G15210	Manual
+Interacts_With	AT5G13790	AT2G45640	Manual
+Regulates_Expression_Of	AT3G57390	AT4G25470	Manual
+Regulates_Expression_Of	AT5G13790	AT5G13790	Manual
+Binds_To	AT5G13790	AT1G24260	Manual
+Binds_To	AT5G13790	AT3G57390	Manual
+Binds_To	AT5G13790	AT1G24260	Manual
+Binds_To	AT5G13790	AT1G69120	Manual
+Binds_To	AT2G45640	AT3G57390	Manual
+Binds_To	AT5G13790	AT4G25470	Manual
+Regulates_Activity_Of	AT5G13790	AT3G57390	Manual
+Regulates_Activity_Of	AT5G13790	AT4G25470	Manual
+Interacts_With	AT2G45640	AT1G50640	Manual
+Interacts_With	AT2G45640	AT2G22540	Manual
+Interacts_With	AT5G13790	AT2G45640	Manual
+Regulates_Expression_Of	AT1G09540	AT1G53500	Manual
+Regulates_Expression_Of	AT5G24520	AT1G79840	Manual
+Regulates_Expression_Of	AT4G36920	AT2G37260	Manual
+Regulates_Expression_Of	AT1G63650	AT1G79840	Manual
+Regulates_Expression_Of	AT4G36920	AT5G24520	Manual
+Regulates_Expression_Of	AT5G24520	AT2G37260	Manual
+Regulates_Expression_Of	AT1G79840	AT1G53500	Manual
+Regulates_Expression_Of	AT4G36920	AT1G53500	Manual
+Regulates_Expression_Of	AT4G36920	AT2G37260	Manual
+Regulates_Expression_Of	AT1G63650	AT1G79840	Manual
+Regulates_Expression_Of	AT1G79840	AT1G53500	Manual
+Regulates_Expression_Of	AT4G09820	AT2G37260	Manual
+Regulates_Expression_Of	AT5G24520	AT2G37260	Manual
+Regulates_Expression_Of	AT4G36920	AT1G09540	Manual
+Regulates_Expression_Of	AT1G79840	AT1G53500	Manual
+Regulates_Expression_Of	AT5G24520	AT1G79840	Manual
+Regulates_Expression_Of	AT5G24520	AT2G37260	Manual
+Regulates_Expression_Of	AT4G36920	AT1G53500	Manual
+Regulates_Expression_Of	AT4G09820	AT1G79840	Manual
+Regulates_Expression_Of	AT2G37260	AT1G53500	Manual
+Regulates_Expression_Of	AT5G24520	AT1G53500	Manual
+Regulates_Expression_Of	AT5G24520	AT2G37260	Manual
+Regulates_Expression_Of	AT5G24520	AT1G53500	Manual
+Regulates_Expression_Of	AT5G24520	AT2G37260	Manual
+Regulates_Expression_Of	AT5G24520	AT1G79840	Manual
+Regulates_Expression_Of	AT4G36920	AT1G79840	Manual
+Regulates_Expression_Of	AT5G24520	AT1G79840	Manual
+Regulates_Expression_Of	AT1G79840	AT1G53500	Manual
+Regulates_Expression_Of	AT5G24520	AT1G79840	Manual
+Regulates_Expression_Of	AT4G36920	AT1G53500	Manual
+Regulates_Expression_Of	AT1G79840	AT1G53500	Manual
+Regulates_Expression_Of	AT5G24520	AT1G53500	Manual
+Regulates_Expression_Of	AT5G24520	AT2G37260	Manual
+Regulates_Expression_Of	AT5G24520	AT1G79840	Manual
+Regulates_Expression_Of	AT5G24520	AT2G37260	Manual
+Regulates_Expression_Of	AT5G24520	AT1G79840	Manual
+Regulates_Expression_Of	AT4G36920	AT1G79840	Manual
+Interacts_With	AT4G09820	AT4G36920	Manual
+Interacts_With	AT4G09820	AT5G24520	Manual
+Interacts_With	AT4G36920	AT5G24520	Manual
+Interacts_With	AT1G63650	AT5G24520	Manual
+Interacts_With	AT4G09820	AT5G24520	Manual
+Interacts_With	AT5G24520	AT5G41315	Manual
+Interacts_With	AT1G63650	AT4G36920	Manual
+Regulates_Expression_Of	AT1G09540	AT1G53500	Manual
+Regulates_Expression_Of	AT5G24520	AT1G79840	Manual
+Regulates_Expression_Of	AT4G36920	AT2G37260	Manual
+Regulates_Expression_Of	AT5G24520	AT2G37260	Manual
+Regulates_Expression_Of	AT1G79840	AT1G53500	Manual
+Regulates_Expression_Of	AT5G24520	AT2G37260	Manual
+Regulates_Expression_Of	AT5G24520	AT1G79840	Manual
+Regulates_Expression_Of	AT4G36920	AT1G53500	Manual
+Regulates_Expression_Of	AT2G37260	AT1G53500	Manual
+Regulates_Expression_Of	AT5G24520	AT1G53500	Manual
+Regulates_Expression_Of	AT5G24520	AT2G37260	Manual
+Regulates_Expression_Of	AT5G24520	AT1G53500	Manual
+Regulates_Expression_Of	AT5G24520	AT2G37260	Manual
+Regulates_Expression_Of	AT5G24520	AT1G79840	Manual
+Regulates_Expression_Of	AT4G36920	AT1G53500	Manual
+Regulates_Expression_Of	AT1G79840	AT1G53500	Manual
+Regulates_Expression_Of	AT5G24520	AT2G37260	Manual
+Regulates_Expression_Of	AT5G24520	AT1G79840	Manual
+Regulates_Expression_Of	AT5G24520	AT2G37260	Manual
+Regulates_Expression_Of	AT4G36920	AT1G79840	Manual
+Interacts_With	AT4G09820	AT5G24520	Manual
+Interacts_With	AT1G63650	AT5G24520	Manual
+Interacts_With	AT4G26080	AT2G36270	Manual
+Interacts_With	AT4G26080	AT2G40220	Manual
+Interacts_With	AT2G36270	AT3G24650	Manual
+Interacts_With	AT2G36270	AT2G36270	Manual
+Interacts_With	AT3G24650	AT2G36270	Manual
+Interacts_With	AT2G36270	AT2G36270	Manual
+Interacts_With	AT2G36270	AT3G24650	Manual
+Interacts_With	AT2G40220	AT2G36270	Manual
+Interacts_With	AT2G36270	AT3G24650	Manual
+Interacts_With	AT2G40220	AT2G40220	Manual
+Interacts_With	AT3G24650	AT2G36270	Manual
+Interacts_With	AT2G36270	AT3G24650	Manual
+Binds_To	AT2G36270	AT2G36270	Manual
+Interacts_With	AT2G36270	AT3G24650	Manual
+Interacts_With	AT3G24650	AT2G36270	Manual
+Interacts_With	AT2G36270	AT2G36270	Manual
+Binds_To	AT2G36270	AT2G36270	Manual
+Regulates_Expression_Of	AT3G54320	AT5G15530	Manual
+Interacts_With	AT3G09840	AT1G71830	Manual
+Interacts_With	AT4G39400	AT1G71830	Manual
+Interacts_With	AT4G39400	AT4G33430	Manual
+Interacts_With	AT1G71830	AT5G19280	Manual
+Interacts_With	AT1G71830	AT4G39400	Manual
+Interacts_With	AT5G19280	AT4G28490	Manual
+Interacts_With	AT5G19280	AT1G75820	Manual
+Interacts_With	AT4G33430	AT4G39400	Manual
+Interacts_With	AT1G71830	AT4G33430	Manual
+Interacts_With	AT4G33430	AT4G39400	Manual
+Interacts_With	AT1G71830	AT4G39400	Manual
+Interacts_With	AT1G71830	AT5G19280	Manual
+Interacts_With	AT5G19280	AT5G46330	Manual
+Interacts_With	AT1G71830	AT4G39400	Manual
+Interacts_With	AT1G71830	AT4G33430	Manual
+Regulates_Activity_Of	AT5G19280	AT1G75820	Manual
+Regulates_Activity_Of	AT5G19280	AT5G46330	Manual
+Binds_To	AT1G71830	AT4G39400	Manual
+Binds_To	AT4G33430	AT4G39400	Manual
+Binds_To	AT1G71830	AT1G71830	Manual
+Binds_To	AT3G27310	AT3G09840	Manual
+Binds_To	AT4G24540	AT5G67280	Manual
+Binds_To	AT4G39400	AT4G39400	Manual
+Binds_To	AT4G39400	AT1G71830	Manual
+Binds_To	AT3G09840	AT3G09840	Manual
+Interacts_With	AT3G09840	AT1G71830	Manual
+Interacts_With	AT4G39400	AT1G71830	Manual
+Interacts_With	AT4G39400	AT4G33430	Manual
+Interacts_With	AT1G71830	AT4G39400	Manual
+Interacts_With	AT4G33430	AT4G39400	Manual
+Interacts_With	AT1G71830	AT4G39400	Manual
+Interacts_With	AT1G71830	AT5G19280	Manual
+Binds_To	AT1G71830	AT1G71830	Manual
+Binds_To	AT4G24540	AT5G67280	Manual
+Binds_To	AT4G39400	AT4G39400	Manual
+Binds_To	AT4G39400	AT1G71830	Manual
