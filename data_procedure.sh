@@ -1,7 +1,6 @@
 #!/bin/bash
 #Treatment of manual annotation data file 
 #Remove unreleavant data and unrelevant relations
-[echaix@bananier data_set]$ 
 cut -f 8,13,18 data_set/manualexportnormalized.txt | grep -P -v '\t\t|\t$' | grep -v -P 'Comparison|Encodes' > processed_data/manualgeneinteraction.txt
 sed -i -e "s/Conditional_//g" processed_data/manualgeneinteraction.txt
 #Unique link only, and unidirectional for relation "interact with" and "Binds_To" (Arg1 < Arg2)
