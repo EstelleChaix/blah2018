@@ -6,6 +6,7 @@ Data to integrate from databases
 https://downloads.thebiogrid.org/Download/BioGRID/Release-Archive/BIOGRID-3.4.156/BIOGRID-ORGANISM-3.4.156.tab2.zip 
 File : BIOGRID-ORGANISM-Arabidopsis_thaliana_Columbia-3.4.156.tab2.txt 
 
+Note: to avoid distribution of this file, please download your own copy (put it in the data_setrepository)
 ---
 Processed data will be add in the repository "Processed data" 
 -> treatment of manual annotation : remove unrelevant link to conserve only link between normalized entities 
