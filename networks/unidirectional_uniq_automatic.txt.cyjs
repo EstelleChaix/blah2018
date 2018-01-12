@@ -1,0 +1,6211 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.6.0",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "shared_name" : "unidirectional_uniq_automatic.txt",
+    "name" : "unidirectional_uniq_automatic.txt",
+    "SUID" : 493933,
+    "__Annotations" : [ "" ],
+    "selected" : true
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "459761",
+        "shared_name" : "AT1G01380",
+        "name" : "AT1G01380",
+        "SUID" : 459761,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -79.55860986249161,
+        "y" : -111.91619618307982
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "454177",
+        "shared_name" : "AT1G79840",
+        "name" : "AT1G79840",
+        "SUID" : 454177,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -152.3231362296791,
+        "y" : -215.3651402748767
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "459760",
+        "shared_name" : "AT5G41315",
+        "name" : "AT5G41315",
+        "SUID" : 459760,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -79.42372216717911,
+        "y" : -209.99789173972044
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "459659",
+        "shared_name" : "AT1G01720",
+        "name" : "AT1G01720",
+        "SUID" : 459659,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 38.81312666399765,
+        "y" : -1133.736081436986
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "457639",
+        "shared_name" : "AT1G58100",
+        "name" : "AT1G58100",
+        "SUID" : 457639,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 58.979966263607025,
+        "y" : -1055.9380391396228
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "454533",
+        "shared_name" : "AT2G45680",
+        "name" : "AT2G45680",
+        "SUID" : 454533,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 91.12840376360703,
+        "y" : -1012.8089192665759
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "456661",
+        "shared_name" : "AT3G27010",
+        "name" : "AT3G27010",
+        "SUID" : 456661,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 55.844773392513275,
+        "y" : -1001.787465409154
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493991",
+        "shared_name" : "AT1G02820",
+        "name" : "AT1G02820",
+        "SUID" : 493991,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 7.4319392250328065,
+        "y" : 1229.603777571803
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493990",
+        "shared_name" : "AT2G21490",
+        "name" : "AT2G21490",
+        "SUID" : 493990,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 10.44939146502304,
+        "y" : 1121.881609603053
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493989",
+        "shared_name" : "AT1G07200",
+        "name" : "AT1G07200",
+        "SUID" : 493989,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -95.58551301495743,
+        "y" : 1229.603777571803
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493988",
+        "shared_name" : "AT5G57710",
+        "name" : "AT5G57710",
+        "SUID" : 493988,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -92.5680607749672,
+        "y" : 1121.881609603053
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "459540",
+        "shared_name" : "AT1G09530",
+        "name" : "AT1G09530",
+        "SUID" : 459540,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -348.61009110943985,
+        "y" : 710.7603632651624
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "458302",
+        "shared_name" : "AT2G34640",
+        "name" : "AT2G34640",
+        "SUID" : 458302,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -308.0069111777992,
+        "y" : 607.3289515219983
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "458314",
+        "shared_name" : "AT1G09570",
+        "name" : "AT1G09570",
+        "SUID" : 458314,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 436.2552348182945,
+        "y" : 810.7603632651624
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "459188",
+        "shared_name" : "AT1G66340",
+        "name" : "AT1G66340",
+        "SUID" : 459188,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 506.23492537005234,
+        "y" : 893.7936884604749
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "457884",
+        "shared_name" : "AT1G13260",
+        "name" : "AT1G13260",
+        "SUID" : 457884,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -348.4156636192055,
+        "y" : -894.8262303627673
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "458952",
+        "shared_name" : "AT2G36270",
+        "name" : "AT2G36270",
+        "SUID" : 458952,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -450.11589707867813,
+        "y" : -983.314908341283
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "453082",
+        "shared_name" : "AT2G40220",
+        "name" : "AT2G40220",
+        "SUID" : 453082,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -437.98995103375626,
+        "y" : -906.5558293617908
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "458434",
+        "shared_name" : "AT3G24650",
+        "name" : "AT3G24650",
+        "SUID" : 458434,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -464.89882173077774,
+        "y" : -799.7924702919665
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "458979",
+        "shared_name" : "AT1G14920",
+        "name" : "AT1G14920",
+        "SUID" : 458979,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 644.0819893883018,
+        "y" : -1070.783414200658
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "458409",
+        "shared_name" : "AT1G66350",
+        "name" : "AT1G66350",
+        "SUID" : 458409,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 565.4537087486534,
+        "y" : -1046.1761754311267
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "459297",
+        "shared_name" : "AT2G01570",
+        "name" : "AT2G01570",
+        "SUID" : 459297,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 657.9323006675987,
+        "y" : -1016.6272252358142
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "454546",
+        "shared_name" : "AT2G39840",
+        "name" : "AT2G39840",
+        "SUID" : 454546,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 737.9807625816612,
+        "y" : -1114.1099828041736
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "458403",
+        "shared_name" : "AT3G03450",
+        "name" : "AT3G03450",
+        "SUID" : 458403,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 576.0772744224815,
+        "y" : -1133.736081436986
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "457619",
+        "shared_name" : "AT3G05120",
+        "name" : "AT3G05120",
+        "SUID" : 457619,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 567.7275887535362,
+        "y" : -950.0538304604236
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493987",
+        "shared_name" : "AT3G61850",
+        "name" : "AT3G61850",
+        "SUID" : 493987,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 760.005115609005,
+        "y" : -1018.4856541908923
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "457604",
+        "shared_name" : "AT3G63010",
+        "name" : "AT3G63010",
+        "SUID" : 457604,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 527.181156258419,
+        "y" : -1027.957516983861
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "457587",
+        "shared_name" : "AT5G27320",
+        "name" : "AT5G27320",
+        "SUID" : 457587,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 619.8711434410362,
+        "y" : -946.6055272377673
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493986",
+        "shared_name" : "AT1G16070",
+        "name" : "AT1G16070",
+        "SUID" : 493986,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 292.8543559120445,
+        "y" : -991.8751500405017
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "456319",
+        "shared_name" : "AT1G25280",
+        "name" : "AT1G25280",
+        "SUID" : 456319,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 427.18115625841904,
+        "y" : -980.8536656655017
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "455645",
+        "shared_name" : "AT1G47270",
+        "name" : "AT1G47270",
+        "SUID" : 455645,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 411.8327451751976,
+        "y" : -1047.8915379799548
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "455332",
+        "shared_name" : "AT1G53320",
+        "name" : "AT1G53320",
+        "SUID" : 455332,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 335.37501631243515,
+        "y" : -1069.892575577611
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "454429",
+        "shared_name" : "AT1G76900",
+        "name" : "AT1G76900",
+        "SUID" : 454429,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 365.98454771502304,
+        "y" : -1029.972653702611
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "454416",
+        "shared_name" : "AT2G47900",
+        "name" : "AT2G47900",
+        "SUID" : 454416,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 375.5482073829918,
+        "y" : -1079.9029515541736
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "454401",
+        "shared_name" : "AT5G18680",
+        "name" : "AT5G18680",
+        "SUID" : 454401,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 281.9736643837242,
+        "y" : -1092.8439305580798
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "457196",
+        "shared_name" : "AT1G17650",
+        "name" : "AT1G17650",
+        "SUID" : 457196,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -235.4323719932289,
+        "y" : 896.9839426719006
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "459490",
+        "shared_name" : "AT2G29350",
+        "name" : "AT2G29350",
+        "SUID" : 459490,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -301.4871510459633,
+        "y" : 810.7603632651624
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "450823",
+        "shared_name" : "AT5G45890",
+        "name" : "AT5G45890",
+        "SUID" : 450823,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -180.92059220807266,
+        "y" : 989.9543253623303
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "457188",
+        "shared_name" : "AT1G17730",
+        "name" : "AT1G17730",
+        "SUID" : 457188,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -80.92059220807266,
+        "y" : 810.7603632651624
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "459282",
+        "shared_name" : "AT2G19830",
+        "name" : "AT2G19830",
+        "SUID" : 459282,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -10.94090165631485,
+        "y" : 893.7936884604749
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "459254",
+        "shared_name" : "AT1G19220",
+        "name" : "AT1G19220",
+        "SUID" : 459254,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 314.2311450050621,
+        "y" : 450.43471400368776
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "453415",
+        "shared_name" : "AT2G37260",
+        "name" : "AT2G37260",
+        "SUID" : 453415,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 238.12595091326523,
+        "y" : 393.77698008645143
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "459232",
+        "shared_name" : "AT5G37020",
+        "name" : "AT5G37020",
+        "SUID" : 459232,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 188.80730162127304,
+        "y" : 460.1262690268811
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "456965",
+        "shared_name" : "AT1G19270",
+        "name" : "AT1G19270",
+        "SUID" : 456965,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 29.28062925799179,
+        "y" : 568.0230545245465
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "459000",
+        "shared_name" : "AT1G69690",
+        "name" : "AT1G69690",
+        "SUID" : 459000,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 29.05083189471054,
+        "y" : 440.9615196429547
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "459174",
+        "shared_name" : "AT3G47620",
+        "name" : "AT3G47620",
+        "SUID" : 459174,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -36.90204896466446,
+        "y" : 498.384619160777
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "456955",
+        "shared_name" : "AT1G19350",
+        "name" : "AT1G19350",
+        "SUID" : 456955,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 318.11002455218124,
+        "y" : 1121.881609603053
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "459264",
+        "shared_name" : "AT1G75080",
+        "name" : "AT1G75080",
+        "SUID" : 459264,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 315.78843412859726,
+        "y" : 1229.6209589682874
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "459253",
+        "shared_name" : "AT1G19850",
+        "name" : "AT1G19850",
+        "SUID" : 459253,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -96.33897294537735,
+        "y" : -847.226674393529
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "452445",
+        "shared_name" : "AT3G15170",
+        "name" : "AT3G15170",
+        "SUID" : 452445,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -13.503249068424225,
+        "y" : -779.8997395790759
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493985",
+        "shared_name" : "AT4G37750",
+        "name" : "AT4G37750",
+        "SUID" : 493985,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -206.0751179649086,
+        "y" : -803.9904683388415
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "457583",
+        "shared_name" : "AT5G53950",
+        "name" : "AT5G53950",
+        "SUID" : 457583,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 20.886033158138275,
+        "y" : -905.7684529579822
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "458412",
+        "shared_name" : "AT1G21970",
+        "name" : "AT1G21970",
+        "SUID" : 458412,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -414.9523152305336,
+        "y" : -655.1769078530017
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493984",
+        "shared_name" : "AT1G28300",
+        "name" : "AT1G28300",
+        "SUID" : 493984,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -338.7882069541664,
+        "y" : -711.6866575039569
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "458385",
+        "shared_name" : "AT1G56170",
+        "name" : "AT1G56170",
+        "SUID" : 458385,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -306.0751179649086,
+        "y" : -606.3035405434314
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "453761",
+        "shared_name" : "AT2G17950",
+        "name" : "AT2G17950",
+        "SUID" : 453761,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -439.11340989606094,
+        "y" : -524.7032445229236
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "452852",
+        "shared_name" : "AT3G26790",
+        "name" : "AT3G26790",
+        "SUID" : 452852,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -365.842787642643,
+        "y" : -761.0229352272693
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493983",
+        "shared_name" : "AT1G24190",
+        "name" : "AT1G24190",
+        "SUID" : 493983,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -603.4444416953773,
+        "y" : 1208.1051890097913
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "453352",
+        "shared_name" : "AT3G01320",
+        "name" : "AT3G01320",
+        "SUID" : 453352,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -669.4992207481117,
+        "y" : 1121.881609603053
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "459510",
+        "shared_name" : "AT5G58230",
+        "name" : "AT5G58230",
+        "SUID" : 459510,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -548.9326619102211,
+        "y" : 1301.075571700221
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "456501",
+        "shared_name" : "AT1G24625",
+        "name" : "AT1G24625",
+        "SUID" : 456501,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 138.44586859209824,
+        "y" : -103.5660336769763
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493982",
+        "shared_name" : "AT5G25160",
+        "name" : "AT5G25160",
+        "SUID" : 493982,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 188.6964942024498,
+        "y" : -206.10401661765013
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493981",
+        "shared_name" : "AT1G43640",
+        "name" : "AT1G43640",
+        "SUID" : 493981,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 418.9476316974907,
+        "y" : -1133.736081436986
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "454420",
+        "shared_name" : "AT2G18280",
+        "name" : "AT2G18280",
+        "SUID" : 454420,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 332.21405134661484,
+        "y" : -961.8610204018298
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493980",
+        "shared_name" : "AT1G30100",
+        "name" : "AT1G30100",
+        "SUID" : 493980,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 651.2610770271568,
+        "y" : -253.33312733542357
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493979",
+        "shared_name" : "AT4G18350",
+        "name" : "AT4G18350",
+        "SUID" : 493979,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 677.7089758919029,
+        "y" : -132.8074010170642
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "456625",
+        "shared_name" : "AT5G62470",
+        "name" : "AT5G62470",
+        "SUID" : 456625,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 742.4981185005455,
+        "y" : -213.41741688620482
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "457900",
+        "shared_name" : "AT1G30490",
+        "name" : "AT1G30490",
+        "SUID" : 457900,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -669.4992207481117,
+        "y" : 477.53589121926393
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "455487",
+        "shared_name" : "AT1G53130",
+        "name" : "AT1G53130",
+        "SUID" : 455487,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -559.0794819785805,
+        "y" : 504.2901026450452
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "459349",
+        "shared_name" : "AT1G32640",
+        "name" : "AT1G32640",
+        "SUID" : 459349,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 466.3820544288902,
+        "y" : 588.8845469199475
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493978",
+        "shared_name" : "AT5G23960",
+        "name" : "AT5G23960",
+        "SUID" : 493978,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 483.96362791521835,
+        "y" : 480.23916117776
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "456819",
+        "shared_name" : "AT1G43700",
+        "name" : "AT1G43700",
+        "SUID" : 456819,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -301.4871510459633,
+        "y" : 1121.881609603053
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493977",
+        "shared_name" : "AT4G19230",
+        "name" : "AT4G19230",
+        "SUID" : 493977,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -265.893641371891,
+        "y" : 1223.6237360678967
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493976",
+        "shared_name" : "AT5G45340",
+        "name" : "AT5G45340",
+        "SUID" : 493976,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -195.58551301495743,
+        "y" : 1141.9029108725842
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "457643",
+        "shared_name" : "AT1G45249",
+        "name" : "AT1G45249",
+        "SUID" : 457643,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -626.8467854453773,
+        "y" : -1133.736081436986
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "453202",
+        "shared_name" : "AT2G41070",
+        "name" : "AT2G41070",
+        "SUID" : 453202,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -576.8064640952797,
+        "y" : -1029.7599461830798
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "458093",
+        "shared_name" : "AT3G44460",
+        "name" : "AT3G44460",
+        "SUID" : 458093,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -517.952632804081,
+        "y" : -1101.727780655736
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "458044",
+        "shared_name" : "AT1G48270",
+        "name" : "AT1G48270",
+        "SUID" : 458044,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 499.79716406328964,
+        "y" : 62.602083846217056
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "458986",
+        "shared_name" : "AT2G26300",
+        "name" : "AT2G26300",
+        "SUID" : 458986,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 454.4525691078453,
+        "y" : 167.89175669777956
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "458161",
+        "shared_name" : "AT1G52880",
+        "name" : "AT1G52880",
+        "SUID" : 458161,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 114.91838179095078,
+        "y" : -1127.4798672951404
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "458160",
+        "shared_name" : "AT1G52890",
+        "name" : "AT1G52890",
+        "SUID" : 458160,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -29.41367997662735,
+        "y" : -1078.6232960976306
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "453236",
+        "shared_name" : "AT2G34710",
+        "name" : "AT2G34710",
+        "SUID" : 453236,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -585.8619831992836,
+        "y" : 614.6848170005139
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "451845",
+        "shared_name" : "AT4G37650",
+        "name" : "AT4G37650",
+        "SUID" : 451845,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -532.3192585899086,
+        "y" : 393.77698008645143
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493975",
+        "shared_name" : "AT5G60690",
+        "name" : "AT5G60690",
+        "SUID" : 493975,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -448.61009110943985,
+        "y" : 531.0238978110608
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "455676",
+        "shared_name" : "AT1G53310",
+        "name" : "AT1G53310",
+        "SUID" : 455676,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 112.77098188860703,
+        "y" : 1121.881609603053
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "453016",
+        "shared_name" : "AT2G42600",
+        "name" : "AT2G42600",
+        "SUID" : 453016,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 110.44939146502304,
+        "y" : 1229.6209589682874
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "455240",
+        "shared_name" : "AT1G55250",
+        "name" : "AT1G55250",
+        "SUID" : 455240,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -543.7076367332191,
+        "y" : -666.6612523354236
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "456361",
+        "shared_name" : "AT2G25170",
+        "name" : "AT2G25170",
+        "SUID" : 456361,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -630.9442280723305,
+        "y" : -660.756745652074
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493974",
+        "shared_name" : "AT4G37390",
+        "name" : "AT4G37390",
+        "SUID" : 493974,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -661.6483906699867,
+        "y" : -693.4873317040149
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "457443",
+        "shared_name" : "AT4G38130",
+        "name" : "AT4G38130",
+        "SUID" : 457443,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -572.4566334678383,
+        "y" : -765.0407689369861
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "456971",
+        "shared_name" : "AT5G63110",
+        "name" : "AT5G63110",
+        "SUID" : 456971,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -554.2065113975258,
+        "y" : -730.1145032204333
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493973",
+        "shared_name" : "VAL1",
+        "name" : "VAL1",
+        "SUID" : 493973,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -669.4992207481117,
+        "y" : -738.0211690224353
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "456285",
+        "shared_name" : "AT1G55600",
+        "name" : "AT1G55600",
+        "SUID" : 456285,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 68.61330900652695,
+        "y" : 62.602083846217056
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493972",
+        "shared_name" : "AT4G25350",
+        "name" : "AT4G25350",
+        "SUID" : 493972,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 94.24078093035507,
+        "y" : 173.6322733603772
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "455163",
+        "shared_name" : "AT1G73805",
+        "name" : "AT1G73805",
+        "SUID" : 455163,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 181.9736643837242,
+        "y" : -1016.2296345986072
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493971",
+        "shared_name" : "AT1G74710",
+        "name" : "AT1G74710",
+        "SUID" : 493971,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 166.21400557024765,
+        "y" : -1081.374738053197
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "455337",
+        "shared_name" : "AT4G18170",
+        "name" : "AT4G18170",
+        "SUID" : 455337,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 142.3452921913414,
+        "y" : -939.2691243447009
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "454993",
+        "shared_name" : "AT5G08790",
+        "name" : "AT5G08790",
+        "SUID" : 454993,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -38.669447798892975,
+        "y" : -1000.040639237279
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "455055",
+        "shared_name" : "AT1G62300",
+        "name" : "AT1G62300",
+        "SUID" : 455055,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -534.1636303855629,
+        "y" : -902.9210484780017
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "455041",
+        "shared_name" : "AT1G62830",
+        "name" : "AT1G62830",
+        "SUID" : 455041,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 336.2552348182945,
+        "y" : 941.6186091147717
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493970",
+        "shared_name" : "AT5G45830",
+        "name" : "AT5G45830",
+        "SUID" : 493970,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 253.30308638079453,
+        "y" : 872.7932917319592
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "457637",
+        "shared_name" : "AT1G63650",
+        "name" : "AT1G63650",
+        "SUID" : 457637,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -269.7884682609291,
+        "y" : -190.5030797280017
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "454907",
+        "shared_name" : "AT1G65740",
+        "name" : "AT1G65740",
+        "SUID" : 454907,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -423.3798512412758,
+        "y" : 1228.2707392417249
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "458902",
+        "shared_name" : "AT5G04560",
+        "name" : "AT5G04560",
+        "SUID" : 458902,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -448.9326619102211,
+        "y" : 1333.0028559409436
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "459511",
+        "shared_name" : "AT5G49160",
+        "name" : "AT5G49160",
+        "SUID" : 459511,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -401.4871510459633,
+        "y" : 1121.881609603053
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "457489",
+        "shared_name" : "AT1G66140",
+        "name" : "AT1G66140",
+        "SUID" : 457489,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 203.16486273272324,
+        "y" : -319.6581395424548
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "459799",
+        "shared_name" : "AT2G18790",
+        "name" : "AT2G18790",
+        "SUID" : 459799,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 581.3213816688805,
+        "y" : 971.208758040553
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493969",
+        "shared_name" : "AT1G67030",
+        "name" : "AT1G67030",
+        "SUID" : 493969,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 78.71705542071152,
+        "y" : -238.7257359780017
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493968",
+        "shared_name" : "AT1G67120",
+        "name" : "AT1G67120",
+        "SUID" : 493968,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -394.4247807456703,
+        "y" : -867.8836797035876
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "454693",
+        "shared_name" : "AT2G39830",
+        "name" : "AT2G39830",
+        "SUID" : 454693,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 88.80730162127304,
+        "y" : 515.8764404498395
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493967",
+        "shared_name" : "DAR1",
+        "name" : "DAR1",
+        "SUID" : 493967,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -69.96757020489883,
+        "y" : 393.77698008645143
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "454674",
+        "shared_name" : "AT1G69960",
+        "name" : "AT1G69960",
+        "SUID" : 454674,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -435.58392228619766,
+        "y" : -1112.585446671361
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "458175",
+        "shared_name" : "AT5G53000",
+        "name" : "AT5G53000",
+        "SUID" : 458175,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -349.39578141705704,
+        "y" : -1071.7471898354236
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "459772",
+        "shared_name" : "AT1G72770",
+        "name" : "AT1G72770",
+        "SUID" : 459772,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -559.8473824454994,
+        "y" : -91.58583577048216
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "459770",
+        "shared_name" : "AT3G11410",
+        "name" : "AT3G11410",
+        "SUID" : 459770,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -461.2922219230385,
+        "y" : -99.43988545309935
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "459768",
+        "shared_name" : "AT4G26080",
+        "name" : "AT4G26080",
+        "SUID" : 459768,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -483.1376656486244,
+        "y" : -37.397916153782944
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "459766",
+        "shared_name" : "AT5G57050",
+        "name" : "AT5G57050",
+        "SUID" : 459766,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -443.7271126701088,
+        "y" : -158.25684864890013
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "456302",
+        "shared_name" : "AT1G73590",
+        "name" : "AT1G73590",
+        "SUID" : 456302,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 87.79161177141953,
+        "y" : -803.2213948525134
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493966",
+        "shared_name" : "AT1G74670",
+        "name" : "AT1G74670",
+        "SUID" : 493966,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 212.77098188860703,
+        "y" : 1229.603777571803
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "459609",
+        "shared_name" : "AT5G15230",
+        "name" : "AT5G15230",
+        "SUID" : 459609,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 215.78843412859726,
+        "y" : 1121.881609603053
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493965",
+        "shared_name" : "AT1G75040",
+        "name" : "AT1G75040",
+        "SUID" : 493965,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -482.3658703757973,
+        "y" : 173.19110171425905
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493964",
+        "shared_name" : "AT2G14610",
+        "name" : "AT2G14610",
+        "SUID" : 493964,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -566.2288578941078,
+        "y" : 181.66325966942873
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "451964",
+        "shared_name" : "AT3G52430",
+        "name" : "AT3G52430",
+        "SUID" : 451964,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -545.4000882102699,
+        "y" : 129.40270106423463
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493963",
+        "shared_name" : "AT4G25470",
+        "name" : "AT4G25470",
+        "SUID" : 493963,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -586.0329026176186,
+        "y" : 250.1333719931897
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "455697",
+        "shared_name" : "AT4G25480",
+        "name" : "AT4G25480",
+        "SUID" : 455697,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -582.9849614097328,
+        "y" : 62.602083846217056
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "452660",
+        "shared_name" : "AT4G25490",
+        "name" : "AT4G25490",
+        "SUID" : 452660,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -599.2314499808998,
+        "y" : 145.97593180764284
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "454388",
+        "shared_name" : "AT1G76260",
+        "name" : "AT1G76260",
+        "SUID" : 454388,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -565.0250481559486,
+        "y" : -282.43282826315794
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "456915",
+        "shared_name" : "AT5G46210",
+        "name" : "AT5G46210",
+        "SUID" : 456915,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -669.4992207481117,
+        "y" : -319.6581395424548
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493962",
+        "shared_name" : "AT5G67030",
+        "name" : "AT5G67030",
+        "SUID" : 493962,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -546.900612731144,
+        "y" : -164.424786881322
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493961",
+        "shared_name" : "AT1G76420",
+        "name" : "AT1G76420",
+        "SUID" : 493961,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -33.858473677799225,
+        "y" : -663.4662373818103
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "457485",
+        "shared_name" : "AT1G77850",
+        "name" : "AT1G77850",
+        "SUID" : 457485,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 264.971837143734,
+        "y" : 516.6587859832105
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493960",
+        "shared_name" : "AT1G78390",
+        "name" : "AT1G78390",
+        "SUID" : 493960,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 610.3636847542076,
+        "y" : -197.44808705222044
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493959",
+        "shared_name" : "AT1G79460",
+        "name" : "AT1G79460",
+        "SUID" : 493959,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -339.130385298893,
+        "y" : -981.725064591283
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493958",
+        "shared_name" : "AT2G30420",
+        "name" : "AT2G30420",
+        "SUID" : 493958,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -154.21321191327286,
+        "y" : -113.77142079245482
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "453353",
+        "shared_name" : "AT2G30424",
+        "name" : "AT2G30424",
+        "SUID" : 453353,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -175.88932885663223,
+        "y" : -305.6935094155017
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493957",
+        "shared_name" : "AT2G30432",
+        "name" : "AT2G30432",
+        "SUID" : 493957,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -21.282944579288483,
+        "y" : -275.39425404440794
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "457609",
+        "shared_name" : "AT3G27920",
+        "name" : "AT3G27920",
+        "SUID" : 457609,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -96.99385156171036,
+        "y" : -319.6581395424548
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493956",
+        "shared_name" : "AT1G80730",
+        "name" : "AT1G80730",
+        "SUID" : 493956,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 301.8793097542076,
+        "y" : -169.05870564352904
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "456239",
+        "shared_name" : "AT3G54320",
+        "name" : "AT3G54320",
+        "SUID" : 456239,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 409.323248963192,
+        "y" : -127.44699604880248
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "453894",
+        "shared_name" : "AT2G05990",
+        "name" : "AT2G05990",
+        "SUID" : 453894,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 721.7794778750687,
+        "y" : 278.7368799887952
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "453688",
+        "shared_name" : "AT2G29980",
+        "name" : "AT2G29980",
+        "SUID" : 453688,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 734.6810892031937,
+        "y" : 180.78790537942018
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "453377",
+        "shared_name" : "AT3G12120",
+        "name" : "AT3G12120",
+        "SUID" : 453377,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 682.8411691592484,
+        "y" : 160.35298411477174
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "454285",
+        "shared_name" : "AT3G57260",
+        "name" : "AT3G57260",
+        "SUID" : 454285,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -669.4992207481117,
+        "y" : 158.236288710719
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "458397",
+        "shared_name" : "AT5G47670",
+        "name" : "AT5G47670",
+        "SUID" : 458397,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -491.19677915112686,
+        "y" : -419.6581395424548
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "456300",
+        "shared_name" : "AT2G19430",
+        "name" : "AT2G19430",
+        "SUID" : 456300,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -657.8449400855751,
+        "y" : -208.9772008217517
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "458183",
+        "shared_name" : "AT5G44560",
+        "name" : "AT5G44560",
+        "SUID" : 458183,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 64.14555464251328,
+        "y" : 971.208758040553
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "459538",
+        "shared_name" : "AT2G20180",
+        "name" : "AT2G20180",
+        "SUID" : 459538,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -263.5777844382973,
+        "y" : 503.8351465903577
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "453005",
+        "shared_name" : "AT3G50330",
+        "name" : "AT3G50330",
+        "SUID" : 453005,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -263.3934086753578,
+        "y" : 393.77698008645143
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "456621",
+        "shared_name" : "AT5G67060",
+        "name" : "AT5G67060",
+        "SUID" : 456621,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -169.96757020489883,
+        "y" : 446.3552881919202
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "454912",
+        "shared_name" : "AT2G23380",
+        "name" : "AT2G23380",
+        "SUID" : 454912,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 818.6381579445152,
+        "y" : 451.4172007285413
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493955",
+        "shared_name" : "AT2G25095",
+        "name" : "AT2G25095",
+        "SUID" : 493955,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 753.7652026222496,
+        "y" : 520.125635787135
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493954",
+        "shared_name" : "AT4G31877",
+        "name" : "AT4G31877",
+        "SUID" : 493954,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 693.8875170753746,
+        "y" : 473.9309794150647
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "459505",
+        "shared_name" : "AT4G02020",
+        "name" : "AT4G02020",
+        "SUID" : 459505,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 743.8728991554527,
+        "y" : 393.77698008645143
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "459675",
+        "shared_name" : "AT2G44950",
+        "name" : "AT2G44950",
+        "SUID" : 459675,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -621.9273213340492,
+        "y" : -807.3509953774158
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "458222",
+        "shared_name" : "AT2G25490",
+        "name" : "AT2G25490",
+        "SUID" : 458222,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 846.475556473568,
+        "y" : 950.5819575034436
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "456975",
+        "shared_name" : "AT3G20770",
+        "name" : "AT3G20770",
+        "SUID" : 456975,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 765.0100565956383,
+        "y" : 879.9264704428967
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "457112",
+        "shared_name" : "AT3G22942",
+        "name" : "AT3G22942",
+        "SUID" : 457112,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 342.07160292132187,
+        "y" : 156.71594493020143
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "458082",
+        "shared_name" : "AT3G63420",
+        "name" : "AT3G63420",
+        "SUID" : 458082,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 526.0114267276077,
+        "y" : 235.40448252785768
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "451189",
+        "shared_name" : "AT5G20635",
+        "name" : "AT5G20635",
+        "SUID" : 451189,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 484.1907816932945,
+        "y" : 293.77698008645143
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493953",
+        "shared_name" : "AT4G34520",
+        "name" : "AT4G34520",
+        "SUID" : 493953,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 792.6187417910843,
+        "y" : 100.9690882407483
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493952",
+        "shared_name" : "AT5G15530",
+        "name" : "AT5G15530",
+        "SUID" : 493952,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 626.0114267276077,
+        "y" : 241.33677928078737
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "457089",
+        "shared_name" : "AT5G35360",
+        "name" : "AT5G35360",
+        "SUID" : 457089,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 695.552762787178,
+        "y" : 62.602083846217056
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "457330",
+        "shared_name" : "AT2G33460",
+        "name" : "AT2G33460",
+        "SUID" : 457330,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -643.9464100791664,
+        "y" : 917.1494929038342
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "458443",
+        "shared_name" : "AT3G48040",
+        "name" : "AT3G48040",
+        "SUID" : 458443,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -622.0537098838539,
+        "y" : 810.7603632651624
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493951",
+        "shared_name" : "AT4G28950",
+        "name" : "AT4G28950",
+        "SUID" : 493951,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -669.4992207481117,
+        "y" : 1021.881609603053
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493950",
+        "shared_name" : "AT2G35230",
+        "name" : "AT2G35230",
+        "SUID" : 493950,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 242.07160292132187,
+        "y" : 284.6866099082288
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "457447",
+        "shared_name" : "AT4G36920",
+        "name" : "AT4G36920",
+        "SUID" : 457447,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 132.01838407976913,
+        "y" : 280.1490122519788
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "459229",
+        "shared_name" : "AT5G62000",
+        "name" : "AT5G62000",
+        "SUID" : 459229,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 209.2187897966652,
+        "y" : 179.13596598733034
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "458405",
+        "shared_name" : "AT2G38880",
+        "name" : "AT2G38880",
+        "SUID" : 458405,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 510.3636847542076,
+        "y" : -80.61144574057494
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "456360",
+        "shared_name" : "AT2G42830",
+        "name" : "AT2G42830",
+        "SUID" : 456360,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -164.7191494895668,
+        "y" : 182.29752357233133
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "458172",
+        "shared_name" : "AT3G57670",
+        "name" : "AT3G57670",
+        "SUID" : 458172,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -281.9431027366371,
+        "y" : 176.97449843514528
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "456351",
+        "shared_name" : "AT5G23260",
+        "name" : "AT5G23260",
+        "SUID" : 456351,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -115.3110684348793,
+        "y" : 281.1910807334241
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493949",
+        "shared_name" : "AT3G05020",
+        "name" : "AT3G05020",
+        "SUID" : 493949,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -455.99893083111954,
+        "y" : 896.9839426719006
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493948",
+        "shared_name" : "AT3G27785",
+        "name" : "AT3G27785",
+        "SUID" : 493948,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -522.0537098838539,
+        "y" : 810.7603632651624
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493947",
+        "shared_name" : "AT5G40360",
+        "name" : "AT5G40360",
+        "SUID" : 493947,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -401.4871510459633,
+        "y" : 989.9543253623303
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "459769",
+        "shared_name" : "AT4G18620",
+        "name" : "AT4G18620",
+        "SUID" : 459769,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -369.7884682609291,
+        "y" : -65.6763737953845
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493946",
+        "shared_name" : "AT3G13682",
+        "name" : "AT3G13682",
+        "SUID" : 493946,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 164.14555464251328,
+        "y" : 810.7603632651624
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493945",
+        "shared_name" : "AT3G19700",
+        "name" : "AT3G19700",
+        "SUID" : 493945,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -15.311068434879303,
+        "y" : 205.08870951760377
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "454399",
+        "shared_name" : "AT5G25350",
+        "name" : "AT5G25350",
+        "SUID" : 454399,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 681.3213816688805,
+        "y" : 810.7603632651624
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "459437",
+        "shared_name" : "AT4G34460",
+        "name" : "AT4G34460",
+        "SUID" : 459437,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 400.6296626137047,
+        "y" : 248.18850962746706
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493944",
+        "shared_name" : "AT3G24220",
+        "name" : "AT3G24220",
+        "SUID" : 493944,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 778.5107923553734,
+        "y" : -103.3320592201892
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "456973",
+        "shared_name" : "AT3G27810",
+        "name" : "AT3G27810",
+        "SUID" : 456973,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 414.2311450050621,
+        "y" : 393.77698008645143
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "453292",
+        "shared_name" : "AT3G28910",
+        "name" : "AT3G28910",
+        "SUID" : 453292,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 788.2692414329796,
+        "y" : -319.6581395424548
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493943",
+        "shared_name" : "AT5G18650",
+        "name" : "AT5G18650",
+        "SUID" : 493943,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 855.478034119442,
+        "y" : -238.35687001120482
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "456355",
+        "shared_name" : "AT3G58780",
+        "name" : "AT3G58780",
+        "SUID" : 456355,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -225.8135556174965,
+        "y" : 278.2818247519788
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "454079",
+        "shared_name" : "AT4G37930",
+        "name" : "AT4G37930",
+        "SUID" : 454079,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -382.3658703757973,
+        "y" : 117.98578898537721
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "456391",
+        "shared_name" : "AT5G02030",
+        "name" : "AT5G02030",
+        "SUID" : 456391,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -365.070399184391,
+        "y" : 257.28575389016237
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "456349",
+        "shared_name" : "AT5G60910",
+        "name" : "AT5G60910",
+        "SUID" : 456349,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -258.4417714072914,
+        "y" : 62.602083846217056
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "456972",
+        "shared_name" : "AT5G40350",
+        "name" : "AT5G40350",
+        "SUID" : 456972,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 593.8875170753746,
+        "y" : 486.1940104209241
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "494258",
+        "source" : "459761",
+        "target" : "454177",
+        "shared_name" : "AT1G01380 (Interacts_With) AT1G79840",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G01380 (Interacts_With) AT1G79840",
+        "interaction" : "Interacts_With",
+        "SUID" : 494258,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494257",
+        "source" : "459761",
+        "target" : "459760",
+        "shared_name" : "AT1G01380 (Interacts_With) AT5G41315",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G01380 (Interacts_With) AT5G41315",
+        "interaction" : "Interacts_With",
+        "SUID" : 494257,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494256",
+        "source" : "454177",
+        "target" : "493958",
+        "shared_name" : "AT1G79840 (Interacts_With) AT2G30420",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G79840 (Interacts_With) AT2G30420",
+        "interaction" : "Interacts_With",
+        "SUID" : 494256,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494255",
+        "source" : "454177",
+        "target" : "453353",
+        "shared_name" : "AT1G79840 (Interacts_With) AT2G30424",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G79840 (Interacts_With) AT2G30424",
+        "interaction" : "Interacts_With",
+        "SUID" : 494255,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494254",
+        "source" : "454177",
+        "target" : "493957",
+        "shared_name" : "AT1G79840 (Interacts_With) AT2G30432",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G79840 (Interacts_With) AT2G30432",
+        "interaction" : "Interacts_With",
+        "SUID" : 494254,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494253",
+        "source" : "454177",
+        "target" : "457609",
+        "shared_name" : "AT1G79840 (Interacts_With) AT3G27920",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G79840 (Interacts_With) AT3G27920",
+        "interaction" : "Interacts_With",
+        "SUID" : 494253,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494252",
+        "source" : "454177",
+        "target" : "459760",
+        "shared_name" : "AT1G79840 (Interacts_With) AT5G41315",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G79840 (Interacts_With) AT5G41315",
+        "interaction" : "Interacts_With",
+        "SUID" : 494252,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494251",
+        "source" : "459659",
+        "target" : "457639",
+        "shared_name" : "AT1G01720 (Interacts_With) AT1G58100",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G01720 (Interacts_With) AT1G58100",
+        "interaction" : "Interacts_With",
+        "SUID" : 494251,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494250",
+        "source" : "459659",
+        "target" : "454533",
+        "shared_name" : "AT1G01720 (Interacts_With) AT2G45680",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G01720 (Interacts_With) AT2G45680",
+        "interaction" : "Interacts_With",
+        "SUID" : 494250,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494249",
+        "source" : "459659",
+        "target" : "456661",
+        "shared_name" : "AT1G01720 (Interacts_With) AT3G27010",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G01720 (Interacts_With) AT3G27010",
+        "interaction" : "Interacts_With",
+        "SUID" : 494249,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494248",
+        "source" : "457639",
+        "target" : "455163",
+        "shared_name" : "AT1G58100 (Interacts_With) AT1G73805",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G58100 (Interacts_With) AT1G73805",
+        "interaction" : "Interacts_With",
+        "SUID" : 494248,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494247",
+        "source" : "457639",
+        "target" : "493971",
+        "shared_name" : "AT1G58100 (Interacts_With) AT1G74710",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G58100 (Interacts_With) AT1G74710",
+        "interaction" : "Interacts_With",
+        "SUID" : 494247,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494246",
+        "source" : "457639",
+        "target" : "454533",
+        "shared_name" : "AT1G58100 (Interacts_With) AT2G45680",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G58100 (Interacts_With) AT2G45680",
+        "interaction" : "Interacts_With",
+        "SUID" : 494246,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494245",
+        "source" : "457639",
+        "target" : "456661",
+        "shared_name" : "AT1G58100 (Interacts_With) AT3G27010",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G58100 (Interacts_With) AT3G27010",
+        "interaction" : "Interacts_With",
+        "SUID" : 494245,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494244",
+        "source" : "457639",
+        "target" : "455337",
+        "shared_name" : "AT1G58100 (Interacts_With) AT4G18170",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G58100 (Interacts_With) AT4G18170",
+        "interaction" : "Interacts_With",
+        "SUID" : 494244,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494243",
+        "source" : "457639",
+        "target" : "454993",
+        "shared_name" : "AT1G58100 (Interacts_With) AT5G08790",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G58100 (Interacts_With) AT5G08790",
+        "interaction" : "Interacts_With",
+        "SUID" : 494243,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494242",
+        "source" : "457639",
+        "target" : "457583",
+        "shared_name" : "AT1G58100 (Interacts_With) AT5G53950",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G58100 (Interacts_With) AT5G53950",
+        "interaction" : "Interacts_With",
+        "SUID" : 494242,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494241",
+        "source" : "454533",
+        "target" : "455337",
+        "shared_name" : "AT2G45680 (Interacts_With) AT4G18170",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G45680 (Interacts_With) AT4G18170",
+        "interaction" : "Interacts_With",
+        "SUID" : 494241,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494240",
+        "source" : "454533",
+        "target" : "454993",
+        "shared_name" : "AT2G45680 (Interacts_With) AT5G08790",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G45680 (Interacts_With) AT5G08790",
+        "interaction" : "Interacts_With",
+        "SUID" : 494240,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494239",
+        "source" : "454533",
+        "target" : "457583",
+        "shared_name" : "AT2G45680 (Interacts_With) AT5G53950",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G45680 (Interacts_With) AT5G53950",
+        "interaction" : "Interacts_With",
+        "SUID" : 494239,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494238",
+        "source" : "456661",
+        "target" : "455337",
+        "shared_name" : "AT3G27010 (Interacts_With) AT4G18170",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT3G27010 (Interacts_With) AT4G18170",
+        "interaction" : "Interacts_With",
+        "SUID" : 494238,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494237",
+        "source" : "456661",
+        "target" : "454993",
+        "shared_name" : "AT3G27010 (Interacts_With) AT5G08790",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT3G27010 (Interacts_With) AT5G08790",
+        "interaction" : "Interacts_With",
+        "SUID" : 494237,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494236",
+        "source" : "456661",
+        "target" : "457583",
+        "shared_name" : "AT3G27010 (Interacts_With) AT5G53950",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT3G27010 (Interacts_With) AT5G53950",
+        "interaction" : "Interacts_With",
+        "SUID" : 494236,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494235",
+        "source" : "493991",
+        "target" : "493990",
+        "shared_name" : "AT1G02820 (Interacts_With) AT2G21490",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G02820 (Interacts_With) AT2G21490",
+        "interaction" : "Interacts_With",
+        "SUID" : 494235,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494234",
+        "source" : "493989",
+        "target" : "493988",
+        "shared_name" : "AT1G07200 (Interacts_With) AT5G57710",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G07200 (Interacts_With) AT5G57710",
+        "interaction" : "Interacts_With",
+        "SUID" : 494234,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494233",
+        "source" : "459540",
+        "target" : "458302",
+        "shared_name" : "AT1G09530 (Interacts_With) AT2G34640",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G09530 (Interacts_With) AT2G34640",
+        "interaction" : "Interacts_With",
+        "SUID" : 494233,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494232",
+        "source" : "458314",
+        "target" : "459188",
+        "shared_name" : "AT1G09570 (Interacts_With) AT1G66340",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G09570 (Interacts_With) AT1G66340",
+        "interaction" : "Interacts_With",
+        "SUID" : 494232,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494231",
+        "source" : "459188",
+        "target" : "459799",
+        "shared_name" : "AT1G66340 (Interacts_With) AT2G18790",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G66340 (Interacts_With) AT2G18790",
+        "interaction" : "Interacts_With",
+        "SUID" : 494231,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494230",
+        "source" : "457884",
+        "target" : "458952",
+        "shared_name" : "AT1G13260 (Interacts_With) AT2G36270",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G13260 (Interacts_With) AT2G36270",
+        "interaction" : "Interacts_With",
+        "SUID" : 494230,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494229",
+        "source" : "457884",
+        "target" : "453082",
+        "shared_name" : "AT1G13260 (Interacts_With) AT2G40220",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G13260 (Interacts_With) AT2G40220",
+        "interaction" : "Interacts_With",
+        "SUID" : 494229,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494228",
+        "source" : "457884",
+        "target" : "458434",
+        "shared_name" : "AT1G13260 (Interacts_With) AT3G24650",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G13260 (Interacts_With) AT3G24650",
+        "interaction" : "Interacts_With",
+        "SUID" : 494228,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494227",
+        "source" : "458952",
+        "target" : "453082",
+        "shared_name" : "AT2G36270 (Interacts_With) AT2G40220",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G36270 (Interacts_With) AT2G40220",
+        "interaction" : "Interacts_With",
+        "SUID" : 494227,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494226",
+        "source" : "458952",
+        "target" : "453202",
+        "shared_name" : "AT2G36270 (Interacts_With) AT2G41070",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G36270 (Interacts_With) AT2G41070",
+        "interaction" : "Interacts_With",
+        "SUID" : 494226,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494225",
+        "source" : "458952",
+        "target" : "458434",
+        "shared_name" : "AT2G36270 (Interacts_With) AT3G24650",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G36270 (Interacts_With) AT3G24650",
+        "interaction" : "Interacts_With",
+        "SUID" : 494225,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494224",
+        "source" : "458952",
+        "target" : "458093",
+        "shared_name" : "AT2G36270 (Interacts_With) AT3G44460",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G36270 (Interacts_With) AT3G44460",
+        "interaction" : "Interacts_With",
+        "SUID" : 494224,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494223",
+        "source" : "458952",
+        "target" : "458175",
+        "shared_name" : "AT2G36270 (Interacts_With) AT5G53000",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G36270 (Interacts_With) AT5G53000",
+        "interaction" : "Interacts_With",
+        "SUID" : 494223,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494222",
+        "source" : "453082",
+        "target" : "458434",
+        "shared_name" : "AT2G40220 (Interacts_With) AT3G24650",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G40220 (Interacts_With) AT3G24650",
+        "interaction" : "Interacts_With",
+        "SUID" : 494222,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494221",
+        "source" : "458434",
+        "target" : "452852",
+        "shared_name" : "AT3G24650 (Interacts_With) AT3G26790",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT3G24650 (Interacts_With) AT3G26790",
+        "interaction" : "Interacts_With",
+        "SUID" : 494221,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494220",
+        "source" : "458434",
+        "target" : "457443",
+        "shared_name" : "AT3G24650 (Interacts_With) AT4G38130",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT3G24650 (Interacts_With) AT4G38130",
+        "interaction" : "Interacts_With",
+        "SUID" : 494220,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494219",
+        "source" : "458434",
+        "target" : "456971",
+        "shared_name" : "AT3G24650 (Interacts_With) AT5G63110",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT3G24650 (Interacts_With) AT5G63110",
+        "interaction" : "Interacts_With",
+        "SUID" : 494219,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494218",
+        "source" : "458979",
+        "target" : "458409",
+        "shared_name" : "AT1G14920 (Interacts_With) AT1G66350",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G14920 (Interacts_With) AT1G66350",
+        "interaction" : "Interacts_With",
+        "SUID" : 494218,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494217",
+        "source" : "458979",
+        "target" : "459297",
+        "shared_name" : "AT1G14920 (Interacts_With) AT2G01570",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G14920 (Interacts_With) AT2G01570",
+        "interaction" : "Interacts_With",
+        "SUID" : 494217,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494216",
+        "source" : "458979",
+        "target" : "454546",
+        "shared_name" : "AT1G14920 (Interacts_With) AT2G39840",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G14920 (Interacts_With) AT2G39840",
+        "interaction" : "Interacts_With",
+        "SUID" : 494216,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494215",
+        "source" : "458979",
+        "target" : "458403",
+        "shared_name" : "AT1G14920 (Interacts_With) AT3G03450",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G14920 (Interacts_With) AT3G03450",
+        "interaction" : "Interacts_With",
+        "SUID" : 494215,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494214",
+        "source" : "458979",
+        "target" : "457619",
+        "shared_name" : "AT1G14920 (Interacts_With) AT3G05120",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G14920 (Interacts_With) AT3G05120",
+        "interaction" : "Interacts_With",
+        "SUID" : 494214,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494213",
+        "source" : "458979",
+        "target" : "493987",
+        "shared_name" : "AT1G14920 (Interacts_With) AT3G61850",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G14920 (Interacts_With) AT3G61850",
+        "interaction" : "Interacts_With",
+        "SUID" : 494213,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494212",
+        "source" : "458979",
+        "target" : "457604",
+        "shared_name" : "AT1G14920 (Interacts_With) AT3G63010",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G14920 (Interacts_With) AT3G63010",
+        "interaction" : "Interacts_With",
+        "SUID" : 494212,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494211",
+        "source" : "458979",
+        "target" : "457587",
+        "shared_name" : "AT1G14920 (Interacts_With) AT5G27320",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G14920 (Interacts_With) AT5G27320",
+        "interaction" : "Interacts_With",
+        "SUID" : 494211,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494210",
+        "source" : "458409",
+        "target" : "459297",
+        "shared_name" : "AT1G66350 (Interacts_With) AT2G01570",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G66350 (Interacts_With) AT2G01570",
+        "interaction" : "Interacts_With",
+        "SUID" : 494210,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494209",
+        "source" : "458409",
+        "target" : "458403",
+        "shared_name" : "AT1G66350 (Interacts_With) AT3G03450",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G66350 (Interacts_With) AT3G03450",
+        "interaction" : "Interacts_With",
+        "SUID" : 494209,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494208",
+        "source" : "458409",
+        "target" : "457619",
+        "shared_name" : "AT1G66350 (Interacts_With) AT3G05120",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G66350 (Interacts_With) AT3G05120",
+        "interaction" : "Interacts_With",
+        "SUID" : 494208,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494207",
+        "source" : "458409",
+        "target" : "457587",
+        "shared_name" : "AT1G66350 (Interacts_With) AT5G27320",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G66350 (Interacts_With) AT5G27320",
+        "interaction" : "Interacts_With",
+        "SUID" : 494207,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494206",
+        "source" : "459297",
+        "target" : "454546",
+        "shared_name" : "AT2G01570 (Interacts_With) AT2G39840",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G01570 (Interacts_With) AT2G39840",
+        "interaction" : "Interacts_With",
+        "SUID" : 494206,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494205",
+        "source" : "459297",
+        "target" : "458403",
+        "shared_name" : "AT2G01570 (Interacts_With) AT3G03450",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G01570 (Interacts_With) AT3G03450",
+        "interaction" : "Interacts_With",
+        "SUID" : 494205,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494204",
+        "source" : "459297",
+        "target" : "457619",
+        "shared_name" : "AT2G01570 (Interacts_With) AT3G05120",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G01570 (Interacts_With) AT3G05120",
+        "interaction" : "Interacts_With",
+        "SUID" : 494204,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494203",
+        "source" : "459297",
+        "target" : "493987",
+        "shared_name" : "AT2G01570 (Interacts_With) AT3G61850",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G01570 (Interacts_With) AT3G61850",
+        "interaction" : "Interacts_With",
+        "SUID" : 494203,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494202",
+        "source" : "459297",
+        "target" : "457604",
+        "shared_name" : "AT2G01570 (Interacts_With) AT3G63010",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G01570 (Interacts_With) AT3G63010",
+        "interaction" : "Interacts_With",
+        "SUID" : 494202,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494201",
+        "source" : "459297",
+        "target" : "457587",
+        "shared_name" : "AT2G01570 (Interacts_With) AT5G27320",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G01570 (Interacts_With) AT5G27320",
+        "interaction" : "Interacts_With",
+        "SUID" : 494201,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494200",
+        "source" : "458403",
+        "target" : "457604",
+        "shared_name" : "AT3G03450 (Interacts_With) AT3G63010",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT3G03450 (Interacts_With) AT3G63010",
+        "interaction" : "Interacts_With",
+        "SUID" : 494200,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494199",
+        "source" : "457619",
+        "target" : "457604",
+        "shared_name" : "AT3G05120 (Interacts_With) AT3G63010",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT3G05120 (Interacts_With) AT3G63010",
+        "interaction" : "Interacts_With",
+        "SUID" : 494199,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494198",
+        "source" : "457604",
+        "target" : "457587",
+        "shared_name" : "AT3G63010 (Interacts_With) AT5G27320",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT3G63010 (Interacts_With) AT5G27320",
+        "interaction" : "Interacts_With",
+        "SUID" : 494198,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494197",
+        "source" : "493986",
+        "target" : "456319",
+        "shared_name" : "AT1G16070 (Interacts_With) AT1G25280",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G16070 (Interacts_With) AT1G25280",
+        "interaction" : "Interacts_With",
+        "SUID" : 494197,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494196",
+        "source" : "493986",
+        "target" : "455645",
+        "shared_name" : "AT1G16070 (Interacts_With) AT1G47270",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G16070 (Interacts_With) AT1G47270",
+        "interaction" : "Interacts_With",
+        "SUID" : 494196,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494195",
+        "source" : "493986",
+        "target" : "455332",
+        "shared_name" : "AT1G16070 (Interacts_With) AT1G53320",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G16070 (Interacts_With) AT1G53320",
+        "interaction" : "Interacts_With",
+        "SUID" : 494195,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494194",
+        "source" : "493986",
+        "target" : "454429",
+        "shared_name" : "AT1G16070 (Interacts_With) AT1G76900",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G16070 (Interacts_With) AT1G76900",
+        "interaction" : "Interacts_With",
+        "SUID" : 494194,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494193",
+        "source" : "493986",
+        "target" : "454416",
+        "shared_name" : "AT1G16070 (Interacts_With) AT2G47900",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G16070 (Interacts_With) AT2G47900",
+        "interaction" : "Interacts_With",
+        "SUID" : 494193,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494192",
+        "source" : "493986",
+        "target" : "454401",
+        "shared_name" : "AT1G16070 (Interacts_With) AT5G18680",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G16070 (Interacts_With) AT5G18680",
+        "interaction" : "Interacts_With",
+        "SUID" : 494192,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494191",
+        "source" : "456319",
+        "target" : "493981",
+        "shared_name" : "AT1G25280 (Interacts_With) AT1G43640",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G25280 (Interacts_With) AT1G43640",
+        "interaction" : "Interacts_With",
+        "SUID" : 494191,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494190",
+        "source" : "456319",
+        "target" : "455645",
+        "shared_name" : "AT1G25280 (Interacts_With) AT1G47270",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G25280 (Interacts_With) AT1G47270",
+        "interaction" : "Interacts_With",
+        "SUID" : 494190,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494189",
+        "source" : "456319",
+        "target" : "455332",
+        "shared_name" : "AT1G25280 (Interacts_With) AT1G53320",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G25280 (Interacts_With) AT1G53320",
+        "interaction" : "Interacts_With",
+        "SUID" : 494189,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494188",
+        "source" : "456319",
+        "target" : "454429",
+        "shared_name" : "AT1G25280 (Interacts_With) AT1G76900",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G25280 (Interacts_With) AT1G76900",
+        "interaction" : "Interacts_With",
+        "SUID" : 494188,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494187",
+        "source" : "456319",
+        "target" : "454420",
+        "shared_name" : "AT1G25280 (Interacts_With) AT2G18280",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G25280 (Interacts_With) AT2G18280",
+        "interaction" : "Interacts_With",
+        "SUID" : 494187,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494186",
+        "source" : "456319",
+        "target" : "454416",
+        "shared_name" : "AT1G25280 (Interacts_With) AT2G47900",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G25280 (Interacts_With) AT2G47900",
+        "interaction" : "Interacts_With",
+        "SUID" : 494186,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494185",
+        "source" : "455645",
+        "target" : "454420",
+        "shared_name" : "AT1G47270 (Interacts_With) AT2G18280",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G47270 (Interacts_With) AT2G18280",
+        "interaction" : "Interacts_With",
+        "SUID" : 494185,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494184",
+        "source" : "455645",
+        "target" : "454401",
+        "shared_name" : "AT1G47270 (Interacts_With) AT5G18680",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G47270 (Interacts_With) AT5G18680",
+        "interaction" : "Interacts_With",
+        "SUID" : 494184,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494183",
+        "source" : "455332",
+        "target" : "454420",
+        "shared_name" : "AT1G53320 (Interacts_With) AT2G18280",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G53320 (Interacts_With) AT2G18280",
+        "interaction" : "Interacts_With",
+        "SUID" : 494183,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494182",
+        "source" : "455332",
+        "target" : "454401",
+        "shared_name" : "AT1G53320 (Interacts_With) AT5G18680",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G53320 (Interacts_With) AT5G18680",
+        "interaction" : "Interacts_With",
+        "SUID" : 494182,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494181",
+        "source" : "454429",
+        "target" : "454420",
+        "shared_name" : "AT1G76900 (Interacts_With) AT2G18280",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G76900 (Interacts_With) AT2G18280",
+        "interaction" : "Interacts_With",
+        "SUID" : 494181,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494180",
+        "source" : "454429",
+        "target" : "454401",
+        "shared_name" : "AT1G76900 (Interacts_With) AT5G18680",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G76900 (Interacts_With) AT5G18680",
+        "interaction" : "Interacts_With",
+        "SUID" : 494180,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494179",
+        "source" : "454416",
+        "target" : "454401",
+        "shared_name" : "AT2G47900 (Interacts_With) AT5G18680",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G47900 (Interacts_With) AT5G18680",
+        "interaction" : "Interacts_With",
+        "SUID" : 494179,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494178",
+        "source" : "457196",
+        "target" : "459490",
+        "shared_name" : "AT1G17650 (Interacts_With) AT2G29350",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G17650 (Interacts_With) AT2G29350",
+        "interaction" : "Interacts_With",
+        "SUID" : 494178,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494177",
+        "source" : "457196",
+        "target" : "450823",
+        "shared_name" : "AT1G17650 (Interacts_With) AT5G45890",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G17650 (Interacts_With) AT5G45890",
+        "interaction" : "Interacts_With",
+        "SUID" : 494177,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494176",
+        "source" : "457188",
+        "target" : "459282",
+        "shared_name" : "AT1G17730 (Interacts_With) AT2G19830",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G17730 (Interacts_With) AT2G19830",
+        "interaction" : "Interacts_With",
+        "SUID" : 494176,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494175",
+        "source" : "459282",
+        "target" : "458183",
+        "shared_name" : "AT2G19830 (Interacts_With) AT5G44560",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G19830 (Interacts_With) AT5G44560",
+        "interaction" : "Interacts_With",
+        "SUID" : 494175,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494174",
+        "source" : "459254",
+        "target" : "453415",
+        "shared_name" : "AT1G19220 (Interacts_With) AT2G37260",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G19220 (Interacts_With) AT2G37260",
+        "interaction" : "Interacts_With",
+        "SUID" : 494174,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494173",
+        "source" : "459254",
+        "target" : "459232",
+        "shared_name" : "AT1G19220 (Interacts_With) AT5G37020",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G19220 (Interacts_With) AT5G37020",
+        "interaction" : "Interacts_With",
+        "SUID" : 494173,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494172",
+        "source" : "456965",
+        "target" : "459000",
+        "shared_name" : "AT1G19270 (Interacts_With) AT1G69690",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G19270 (Interacts_With) AT1G69690",
+        "interaction" : "Interacts_With",
+        "SUID" : 494172,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494171",
+        "source" : "456965",
+        "target" : "459174",
+        "shared_name" : "AT1G19270 (Interacts_With) AT3G47620",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G19270 (Interacts_With) AT3G47620",
+        "interaction" : "Interacts_With",
+        "SUID" : 494171,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494170",
+        "source" : "459000",
+        "target" : "454693",
+        "shared_name" : "AT1G69690 (Interacts_With) AT2G39830",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G69690 (Interacts_With) AT2G39830",
+        "interaction" : "Interacts_With",
+        "SUID" : 494170,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494169",
+        "source" : "459000",
+        "target" : "493967",
+        "shared_name" : "AT1G69690 (Interacts_With) DAR1",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G69690 (Interacts_With) DAR1",
+        "interaction" : "Interacts_With",
+        "SUID" : 494169,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494168",
+        "source" : "459174",
+        "target" : "493967",
+        "shared_name" : "AT3G47620 (Interacts_With) DAR1",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT3G47620 (Interacts_With) DAR1",
+        "interaction" : "Interacts_With",
+        "SUID" : 494168,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494167",
+        "source" : "456955",
+        "target" : "459264",
+        "shared_name" : "AT1G19350 (Interacts_With) AT1G75080",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G19350 (Interacts_With) AT1G75080",
+        "interaction" : "Interacts_With",
+        "SUID" : 494167,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494166",
+        "source" : "459253",
+        "target" : "452445",
+        "shared_name" : "AT1G19850 (Interacts_With) AT3G15170",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G19850 (Interacts_With) AT3G15170",
+        "interaction" : "Interacts_With",
+        "SUID" : 494166,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494165",
+        "source" : "459253",
+        "target" : "493985",
+        "shared_name" : "AT1G19850 (Interacts_With) AT4G37750",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G19850 (Interacts_With) AT4G37750",
+        "interaction" : "Interacts_With",
+        "SUID" : 494165,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494164",
+        "source" : "459253",
+        "target" : "457583",
+        "shared_name" : "AT1G19850 (Interacts_With) AT5G53950",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G19850 (Interacts_With) AT5G53950",
+        "interaction" : "Interacts_With",
+        "SUID" : 494164,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494163",
+        "source" : "452445",
+        "target" : "457583",
+        "shared_name" : "AT3G15170 (Interacts_With) AT5G53950",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT3G15170 (Interacts_With) AT5G53950",
+        "interaction" : "Interacts_With",
+        "SUID" : 494163,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494162",
+        "source" : "458412",
+        "target" : "493984",
+        "shared_name" : "AT1G21970 (Interacts_With) AT1G28300",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G21970 (Interacts_With) AT1G28300",
+        "interaction" : "Interacts_With",
+        "SUID" : 494162,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494161",
+        "source" : "458412",
+        "target" : "458385",
+        "shared_name" : "AT1G21970 (Interacts_With) AT1G56170",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G21970 (Interacts_With) AT1G56170",
+        "interaction" : "Interacts_With",
+        "SUID" : 494161,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494160",
+        "source" : "458412",
+        "target" : "453761",
+        "shared_name" : "AT1G21970 (Interacts_With) AT2G17950",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G21970 (Interacts_With) AT2G17950",
+        "interaction" : "Interacts_With",
+        "SUID" : 494160,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494159",
+        "source" : "458412",
+        "target" : "458434",
+        "shared_name" : "AT1G21970 (Interacts_With) AT3G24650",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G21970 (Interacts_With) AT3G24650",
+        "interaction" : "Interacts_With",
+        "SUID" : 494159,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494158",
+        "source" : "458412",
+        "target" : "452852",
+        "shared_name" : "AT1G21970 (Interacts_With) AT3G26790",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G21970 (Interacts_With) AT3G26790",
+        "interaction" : "Interacts_With",
+        "SUID" : 494158,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494157",
+        "source" : "493984",
+        "target" : "458385",
+        "shared_name" : "AT1G28300 (Interacts_With) AT1G56170",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G28300 (Interacts_With) AT1G56170",
+        "interaction" : "Interacts_With",
+        "SUID" : 494157,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494156",
+        "source" : "493984",
+        "target" : "458434",
+        "shared_name" : "AT1G28300 (Interacts_With) AT3G24650",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G28300 (Interacts_With) AT3G24650",
+        "interaction" : "Interacts_With",
+        "SUID" : 494156,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494155",
+        "source" : "453761",
+        "target" : "458397",
+        "shared_name" : "AT2G17950 (Interacts_With) AT5G47670",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G17950 (Interacts_With) AT5G47670",
+        "interaction" : "Interacts_With",
+        "SUID" : 494155,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494154",
+        "source" : "493983",
+        "target" : "453352",
+        "shared_name" : "AT1G24190 (Interacts_With) AT3G01320",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G24190 (Interacts_With) AT3G01320",
+        "interaction" : "Interacts_With",
+        "SUID" : 494154,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494153",
+        "source" : "493983",
+        "target" : "459510",
+        "shared_name" : "AT1G24190 (Interacts_With) AT5G58230",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G24190 (Interacts_With) AT5G58230",
+        "interaction" : "Interacts_With",
+        "SUID" : 494153,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494152",
+        "source" : "456501",
+        "target" : "493982",
+        "shared_name" : "AT1G24625 (Interacts_With) AT5G25160",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G24625 (Interacts_With) AT5G25160",
+        "interaction" : "Interacts_With",
+        "SUID" : 494152,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494151",
+        "source" : "493981",
+        "target" : "455645",
+        "shared_name" : "AT1G43640 (Interacts_With) AT1G47270",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G43640 (Interacts_With) AT1G47270",
+        "interaction" : "Interacts_With",
+        "SUID" : 494151,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494150",
+        "source" : "493981",
+        "target" : "455332",
+        "shared_name" : "AT1G43640 (Interacts_With) AT1G53320",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G43640 (Interacts_With) AT1G53320",
+        "interaction" : "Interacts_With",
+        "SUID" : 494150,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494149",
+        "source" : "493981",
+        "target" : "454429",
+        "shared_name" : "AT1G43640 (Interacts_With) AT1G76900",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G43640 (Interacts_With) AT1G76900",
+        "interaction" : "Interacts_With",
+        "SUID" : 494149,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494148",
+        "source" : "493981",
+        "target" : "454416",
+        "shared_name" : "AT1G43640 (Interacts_With) AT2G47900",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G43640 (Interacts_With) AT2G47900",
+        "interaction" : "Interacts_With",
+        "SUID" : 494148,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494147",
+        "source" : "493981",
+        "target" : "454401",
+        "shared_name" : "AT1G43640 (Interacts_With) AT5G18680",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G43640 (Interacts_With) AT5G18680",
+        "interaction" : "Interacts_With",
+        "SUID" : 494147,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494146",
+        "source" : "454420",
+        "target" : "454416",
+        "shared_name" : "AT2G18280 (Interacts_With) AT2G47900",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G18280 (Interacts_With) AT2G47900",
+        "interaction" : "Interacts_With",
+        "SUID" : 494146,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494145",
+        "source" : "454420",
+        "target" : "454401",
+        "shared_name" : "AT2G18280 (Interacts_With) AT5G18680",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G18280 (Interacts_With) AT5G18680",
+        "interaction" : "Interacts_With",
+        "SUID" : 494145,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494144",
+        "source" : "493980",
+        "target" : "493979",
+        "shared_name" : "AT1G30100 (Interacts_With) AT4G18350",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G30100 (Interacts_With) AT4G18350",
+        "interaction" : "Interacts_With",
+        "SUID" : 494144,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494143",
+        "source" : "493980",
+        "target" : "456625",
+        "shared_name" : "AT1G30100 (Interacts_With) AT5G62470",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G30100 (Interacts_With) AT5G62470",
+        "interaction" : "Interacts_With",
+        "SUID" : 494143,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494142",
+        "source" : "493979",
+        "target" : "456625",
+        "shared_name" : "AT4G18350 (Interacts_With) AT5G62470",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT4G18350 (Interacts_With) AT5G62470",
+        "interaction" : "Interacts_With",
+        "SUID" : 494142,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494141",
+        "source" : "457900",
+        "target" : "455487",
+        "shared_name" : "AT1G30490 (Interacts_With) AT1G53130",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G30490 (Interacts_With) AT1G53130",
+        "interaction" : "Interacts_With",
+        "SUID" : 494141,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494140",
+        "source" : "455487",
+        "target" : "453236",
+        "shared_name" : "AT1G53130 (Interacts_With) AT2G34710",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G53130 (Interacts_With) AT2G34710",
+        "interaction" : "Interacts_With",
+        "SUID" : 494140,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494139",
+        "source" : "455487",
+        "target" : "451845",
+        "shared_name" : "AT1G53130 (Interacts_With) AT4G37650",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G53130 (Interacts_With) AT4G37650",
+        "interaction" : "Interacts_With",
+        "SUID" : 494139,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494138",
+        "source" : "455487",
+        "target" : "493975",
+        "shared_name" : "AT1G53130 (Interacts_With) AT5G60690",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G53130 (Interacts_With) AT5G60690",
+        "interaction" : "Interacts_With",
+        "SUID" : 494138,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494137",
+        "source" : "459349",
+        "target" : "493978",
+        "shared_name" : "AT1G32640 (Interacts_With) AT5G23960",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G32640 (Interacts_With) AT5G23960",
+        "interaction" : "Interacts_With",
+        "SUID" : 494137,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494136",
+        "source" : "493978",
+        "target" : "456972",
+        "shared_name" : "AT5G23960 (Interacts_With) AT5G40350",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT5G23960 (Interacts_With) AT5G40350",
+        "interaction" : "Interacts_With",
+        "SUID" : 494136,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494135",
+        "source" : "456819",
+        "target" : "493977",
+        "shared_name" : "AT1G43700 (Interacts_With) AT4G19230",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G43700 (Interacts_With) AT4G19230",
+        "interaction" : "Interacts_With",
+        "SUID" : 494135,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494134",
+        "source" : "456819",
+        "target" : "493976",
+        "shared_name" : "AT1G43700 (Interacts_With) AT5G45340",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G43700 (Interacts_With) AT5G45340",
+        "interaction" : "Interacts_With",
+        "SUID" : 494134,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494133",
+        "source" : "493977",
+        "target" : "493976",
+        "shared_name" : "AT4G19230 (Interacts_With) AT5G45340",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT4G19230 (Interacts_With) AT5G45340",
+        "interaction" : "Interacts_With",
+        "SUID" : 494133,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494132",
+        "source" : "457643",
+        "target" : "453202",
+        "shared_name" : "AT1G45249 (Interacts_With) AT2G41070",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G45249 (Interacts_With) AT2G41070",
+        "interaction" : "Interacts_With",
+        "SUID" : 494132,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494131",
+        "source" : "457643",
+        "target" : "458093",
+        "shared_name" : "AT1G45249 (Interacts_With) AT3G44460",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G45249 (Interacts_With) AT3G44460",
+        "interaction" : "Interacts_With",
+        "SUID" : 494131,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494130",
+        "source" : "453202",
+        "target" : "458093",
+        "shared_name" : "AT2G41070 (Interacts_With) AT3G44460",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G41070 (Interacts_With) AT3G44460",
+        "interaction" : "Interacts_With",
+        "SUID" : 494130,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494129",
+        "source" : "458044",
+        "target" : "458986",
+        "shared_name" : "AT1G48270 (Interacts_With) AT2G26300",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G48270 (Interacts_With) AT2G26300",
+        "interaction" : "Interacts_With",
+        "SUID" : 494129,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494128",
+        "source" : "458986",
+        "target" : "457112",
+        "shared_name" : "AT2G26300 (Interacts_With) AT3G22942",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G26300 (Interacts_With) AT3G22942",
+        "interaction" : "Interacts_With",
+        "SUID" : 494128,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494127",
+        "source" : "458986",
+        "target" : "458082",
+        "shared_name" : "AT2G26300 (Interacts_With) AT3G63420",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G26300 (Interacts_With) AT3G63420",
+        "interaction" : "Interacts_With",
+        "SUID" : 494127,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494126",
+        "source" : "458986",
+        "target" : "451189",
+        "shared_name" : "AT2G26300 (Interacts_With) AT5G20635",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G26300 (Interacts_With) AT5G20635",
+        "interaction" : "Interacts_With",
+        "SUID" : 494126,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494125",
+        "source" : "458161",
+        "target" : "457639",
+        "shared_name" : "AT1G52880 (Interacts_With) AT1G58100",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G52880 (Interacts_With) AT1G58100",
+        "interaction" : "Interacts_With",
+        "SUID" : 494125,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494124",
+        "source" : "458161",
+        "target" : "454533",
+        "shared_name" : "AT1G52880 (Interacts_With) AT2G45680",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G52880 (Interacts_With) AT2G45680",
+        "interaction" : "Interacts_With",
+        "SUID" : 494124,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494123",
+        "source" : "458161",
+        "target" : "456661",
+        "shared_name" : "AT1G52880 (Interacts_With) AT3G27010",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G52880 (Interacts_With) AT3G27010",
+        "interaction" : "Interacts_With",
+        "SUID" : 494123,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494122",
+        "source" : "458160",
+        "target" : "457639",
+        "shared_name" : "AT1G52890 (Interacts_With) AT1G58100",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G52890 (Interacts_With) AT1G58100",
+        "interaction" : "Interacts_With",
+        "SUID" : 494122,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494121",
+        "source" : "458160",
+        "target" : "454533",
+        "shared_name" : "AT1G52890 (Interacts_With) AT2G45680",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G52890 (Interacts_With) AT2G45680",
+        "interaction" : "Interacts_With",
+        "SUID" : 494121,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494120",
+        "source" : "458160",
+        "target" : "456661",
+        "shared_name" : "AT1G52890 (Interacts_With) AT3G27010",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G52890 (Interacts_With) AT3G27010",
+        "interaction" : "Interacts_With",
+        "SUID" : 494120,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494119",
+        "source" : "455676",
+        "target" : "453016",
+        "shared_name" : "AT1G53310 (Interacts_With) AT2G42600",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G53310 (Interacts_With) AT2G42600",
+        "interaction" : "Interacts_With",
+        "SUID" : 494119,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494118",
+        "source" : "455240",
+        "target" : "456361",
+        "shared_name" : "AT1G55250 (Interacts_With) AT2G25170",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G55250 (Interacts_With) AT2G25170",
+        "interaction" : "Interacts_With",
+        "SUID" : 494118,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494117",
+        "source" : "455240",
+        "target" : "458434",
+        "shared_name" : "AT1G55250 (Interacts_With) AT3G24650",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G55250 (Interacts_With) AT3G24650",
+        "interaction" : "Interacts_With",
+        "SUID" : 494117,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494116",
+        "source" : "455240",
+        "target" : "493974",
+        "shared_name" : "AT1G55250 (Interacts_With) AT4G37390",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G55250 (Interacts_With) AT4G37390",
+        "interaction" : "Interacts_With",
+        "SUID" : 494116,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494115",
+        "source" : "455240",
+        "target" : "457443",
+        "shared_name" : "AT1G55250 (Interacts_With) AT4G38130",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G55250 (Interacts_With) AT4G38130",
+        "interaction" : "Interacts_With",
+        "SUID" : 494115,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494114",
+        "source" : "455240",
+        "target" : "456971",
+        "shared_name" : "AT1G55250 (Interacts_With) AT5G63110",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G55250 (Interacts_With) AT5G63110",
+        "interaction" : "Interacts_With",
+        "SUID" : 494114,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494113",
+        "source" : "455240",
+        "target" : "493973",
+        "shared_name" : "AT1G55250 (Interacts_With) VAL1",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G55250 (Interacts_With) VAL1",
+        "interaction" : "Interacts_With",
+        "SUID" : 494113,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494112",
+        "source" : "456361",
+        "target" : "459675",
+        "shared_name" : "AT2G25170 (Interacts_With) AT2G44950",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G25170 (Interacts_With) AT2G44950",
+        "interaction" : "Interacts_With",
+        "SUID" : 494112,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494111",
+        "source" : "456361",
+        "target" : "457443",
+        "shared_name" : "AT2G25170 (Interacts_With) AT4G38130",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G25170 (Interacts_With) AT4G38130",
+        "interaction" : "Interacts_With",
+        "SUID" : 494111,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494110",
+        "source" : "456361",
+        "target" : "456971",
+        "shared_name" : "AT2G25170 (Interacts_With) AT5G63110",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G25170 (Interacts_With) AT5G63110",
+        "interaction" : "Interacts_With",
+        "SUID" : 494110,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494109",
+        "source" : "493974",
+        "target" : "457443",
+        "shared_name" : "AT4G37390 (Interacts_With) AT4G38130",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT4G37390 (Interacts_With) AT4G38130",
+        "interaction" : "Interacts_With",
+        "SUID" : 494109,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494108",
+        "source" : "493974",
+        "target" : "456971",
+        "shared_name" : "AT4G37390 (Interacts_With) AT5G63110",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT4G37390 (Interacts_With) AT5G63110",
+        "interaction" : "Interacts_With",
+        "SUID" : 494108,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494107",
+        "source" : "457443",
+        "target" : "493973",
+        "shared_name" : "AT4G38130 (Interacts_With) VAL1",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT4G38130 (Interacts_With) VAL1",
+        "interaction" : "Interacts_With",
+        "SUID" : 494107,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494106",
+        "source" : "456971",
+        "target" : "493973",
+        "shared_name" : "AT5G63110 (Interacts_With) VAL1",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT5G63110 (Interacts_With) VAL1",
+        "interaction" : "Interacts_With",
+        "SUID" : 494106,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494105",
+        "source" : "456285",
+        "target" : "493972",
+        "shared_name" : "AT1G55600 (Interacts_With) AT4G25350",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G55600 (Interacts_With) AT4G25350",
+        "interaction" : "Interacts_With",
+        "SUID" : 494105,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494104",
+        "source" : "493972",
+        "target" : "457447",
+        "shared_name" : "AT4G25350 (Interacts_With) AT4G36920",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT4G25350 (Interacts_With) AT4G36920",
+        "interaction" : "Interacts_With",
+        "SUID" : 494104,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494103",
+        "source" : "493972",
+        "target" : "459229",
+        "shared_name" : "AT4G25350 (Interacts_With) AT5G62000",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT4G25350 (Interacts_With) AT5G62000",
+        "interaction" : "Interacts_With",
+        "SUID" : 494103,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494102",
+        "source" : "455163",
+        "target" : "454533",
+        "shared_name" : "AT1G73805 (Interacts_With) AT2G45680",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G73805 (Interacts_With) AT2G45680",
+        "interaction" : "Interacts_With",
+        "SUID" : 494102,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494101",
+        "source" : "455163",
+        "target" : "456661",
+        "shared_name" : "AT1G73805 (Interacts_With) AT3G27010",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G73805 (Interacts_With) AT3G27010",
+        "interaction" : "Interacts_With",
+        "SUID" : 494101,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494100",
+        "source" : "493971",
+        "target" : "454533",
+        "shared_name" : "AT1G74710 (Interacts_With) AT2G45680",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G74710 (Interacts_With) AT2G45680",
+        "interaction" : "Interacts_With",
+        "SUID" : 494100,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494099",
+        "source" : "493971",
+        "target" : "456661",
+        "shared_name" : "AT1G74710 (Interacts_With) AT3G27010",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G74710 (Interacts_With) AT3G27010",
+        "interaction" : "Interacts_With",
+        "SUID" : 494099,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494098",
+        "source" : "455055",
+        "target" : "458952",
+        "shared_name" : "AT1G62300 (Interacts_With) AT2G36270",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G62300 (Interacts_With) AT2G36270",
+        "interaction" : "Interacts_With",
+        "SUID" : 494098,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494097",
+        "source" : "455055",
+        "target" : "453082",
+        "shared_name" : "AT1G62300 (Interacts_With) AT2G40220",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G62300 (Interacts_With) AT2G40220",
+        "interaction" : "Interacts_With",
+        "SUID" : 494097,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494096",
+        "source" : "455055",
+        "target" : "458434",
+        "shared_name" : "AT1G62300 (Interacts_With) AT3G24650",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G62300 (Interacts_With) AT3G24650",
+        "interaction" : "Interacts_With",
+        "SUID" : 494096,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494095",
+        "source" : "455041",
+        "target" : "493970",
+        "shared_name" : "AT1G62830 (Interacts_With) AT5G45830",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G62830 (Interacts_With) AT5G45830",
+        "interaction" : "Interacts_With",
+        "SUID" : 494095,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494094",
+        "source" : "457637",
+        "target" : "454177",
+        "shared_name" : "AT1G63650 (Interacts_With) AT1G79840",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G63650 (Interacts_With) AT1G79840",
+        "interaction" : "Interacts_With",
+        "SUID" : 494094,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494093",
+        "source" : "454907",
+        "target" : "458902",
+        "shared_name" : "AT1G65740 (Interacts_With) AT5G04560",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G65740 (Interacts_With) AT5G04560",
+        "interaction" : "Interacts_With",
+        "SUID" : 494093,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494092",
+        "source" : "454907",
+        "target" : "459511",
+        "shared_name" : "AT1G65740 (Interacts_With) AT5G49160",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G65740 (Interacts_With) AT5G49160",
+        "interaction" : "Interacts_With",
+        "SUID" : 494092,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494091",
+        "source" : "457489",
+        "target" : "493982",
+        "shared_name" : "AT1G66140 (Interacts_With) AT5G25160",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G66140 (Interacts_With) AT5G25160",
+        "interaction" : "Interacts_With",
+        "SUID" : 494091,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494090",
+        "source" : "493969",
+        "target" : "493982",
+        "shared_name" : "AT1G67030 (Interacts_With) AT5G25160",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G67030 (Interacts_With) AT5G25160",
+        "interaction" : "Interacts_With",
+        "SUID" : 494090,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494089",
+        "source" : "493968",
+        "target" : "458952",
+        "shared_name" : "AT1G67120 (Interacts_With) AT2G36270",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G67120 (Interacts_With) AT2G36270",
+        "interaction" : "Interacts_With",
+        "SUID" : 494089,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494088",
+        "source" : "493968",
+        "target" : "458434",
+        "shared_name" : "AT1G67120 (Interacts_With) AT3G24650",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G67120 (Interacts_With) AT3G24650",
+        "interaction" : "Interacts_With",
+        "SUID" : 494088,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494087",
+        "source" : "454693",
+        "target" : "459174",
+        "shared_name" : "AT2G39830 (Interacts_With) AT3G47620",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G39830 (Interacts_With) AT3G47620",
+        "interaction" : "Interacts_With",
+        "SUID" : 494087,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494086",
+        "source" : "454674",
+        "target" : "458952",
+        "shared_name" : "AT1G69960 (Interacts_With) AT2G36270",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G69960 (Interacts_With) AT2G36270",
+        "interaction" : "Interacts_With",
+        "SUID" : 494086,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494085",
+        "source" : "454674",
+        "target" : "458175",
+        "shared_name" : "AT1G69960 (Interacts_With) AT5G53000",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G69960 (Interacts_With) AT5G53000",
+        "interaction" : "Interacts_With",
+        "SUID" : 494085,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494084",
+        "source" : "459772",
+        "target" : "459770",
+        "shared_name" : "AT1G72770 (Interacts_With) AT3G11410",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G72770 (Interacts_With) AT3G11410",
+        "interaction" : "Interacts_With",
+        "SUID" : 494084,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494083",
+        "source" : "459772",
+        "target" : "459768",
+        "shared_name" : "AT1G72770 (Interacts_With) AT4G26080",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G72770 (Interacts_With) AT4G26080",
+        "interaction" : "Interacts_With",
+        "SUID" : 494083,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494082",
+        "source" : "459772",
+        "target" : "459766",
+        "shared_name" : "AT1G72770 (Interacts_With) AT5G57050",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G72770 (Interacts_With) AT5G57050",
+        "interaction" : "Interacts_With",
+        "SUID" : 494082,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494081",
+        "source" : "459770",
+        "target" : "459769",
+        "shared_name" : "AT3G11410 (Interacts_With) AT4G18620",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT3G11410 (Interacts_With) AT4G18620",
+        "interaction" : "Interacts_With",
+        "SUID" : 494081,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494080",
+        "source" : "459770",
+        "target" : "493962",
+        "shared_name" : "AT3G11410 (Interacts_With) AT5G67030",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT3G11410 (Interacts_With) AT5G67030",
+        "interaction" : "Interacts_With",
+        "SUID" : 494080,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494079",
+        "source" : "459768",
+        "target" : "493962",
+        "shared_name" : "AT4G26080 (Interacts_With) AT5G67030",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT4G26080 (Interacts_With) AT5G67030",
+        "interaction" : "Interacts_With",
+        "SUID" : 494079,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494078",
+        "source" : "459766",
+        "target" : "493962",
+        "shared_name" : "AT5G57050 (Interacts_With) AT5G67030",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT5G57050 (Interacts_With) AT5G67030",
+        "interaction" : "Interacts_With",
+        "SUID" : 494078,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494077",
+        "source" : "456302",
+        "target" : "452445",
+        "shared_name" : "AT1G73590 (Interacts_With) AT3G15170",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G73590 (Interacts_With) AT3G15170",
+        "interaction" : "Interacts_With",
+        "SUID" : 494077,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494076",
+        "source" : "456302",
+        "target" : "457583",
+        "shared_name" : "AT1G73590 (Interacts_With) AT5G53950",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G73590 (Interacts_With) AT5G53950",
+        "interaction" : "Interacts_With",
+        "SUID" : 494076,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494075",
+        "source" : "493966",
+        "target" : "459609",
+        "shared_name" : "AT1G74670 (Interacts_With) AT5G15230",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G74670 (Interacts_With) AT5G15230",
+        "interaction" : "Interacts_With",
+        "SUID" : 494075,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494074",
+        "source" : "493965",
+        "target" : "493964",
+        "shared_name" : "AT1G75040 (Interacts_With) AT2G14610",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G75040 (Interacts_With) AT2G14610",
+        "interaction" : "Interacts_With",
+        "SUID" : 494074,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494073",
+        "source" : "493965",
+        "target" : "451964",
+        "shared_name" : "AT1G75040 (Interacts_With) AT3G52430",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G75040 (Interacts_With) AT3G52430",
+        "interaction" : "Interacts_With",
+        "SUID" : 494073,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494072",
+        "source" : "493965",
+        "target" : "493963",
+        "shared_name" : "AT1G75040 (Interacts_With) AT4G25470",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G75040 (Interacts_With) AT4G25470",
+        "interaction" : "Interacts_With",
+        "SUID" : 494072,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494071",
+        "source" : "493965",
+        "target" : "455697",
+        "shared_name" : "AT1G75040 (Interacts_With) AT4G25480",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G75040 (Interacts_With) AT4G25480",
+        "interaction" : "Interacts_With",
+        "SUID" : 494071,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494070",
+        "source" : "493965",
+        "target" : "452660",
+        "shared_name" : "AT1G75040 (Interacts_With) AT4G25490",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G75040 (Interacts_With) AT4G25490",
+        "interaction" : "Interacts_With",
+        "SUID" : 494070,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494069",
+        "source" : "493964",
+        "target" : "454285",
+        "shared_name" : "AT2G14610 (Interacts_With) AT3G57260",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G14610 (Interacts_With) AT3G57260",
+        "interaction" : "Interacts_With",
+        "SUID" : 494069,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494068",
+        "source" : "493964",
+        "target" : "493963",
+        "shared_name" : "AT2G14610 (Interacts_With) AT4G25470",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G14610 (Interacts_With) AT4G25470",
+        "interaction" : "Interacts_With",
+        "SUID" : 494068,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494067",
+        "source" : "493964",
+        "target" : "455697",
+        "shared_name" : "AT2G14610 (Interacts_With) AT4G25480",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G14610 (Interacts_With) AT4G25480",
+        "interaction" : "Interacts_With",
+        "SUID" : 494067,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494066",
+        "source" : "451964",
+        "target" : "454285",
+        "shared_name" : "AT3G52430 (Interacts_With) AT3G57260",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT3G52430 (Interacts_With) AT3G57260",
+        "interaction" : "Interacts_With",
+        "SUID" : 494066,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494065",
+        "source" : "451964",
+        "target" : "493963",
+        "shared_name" : "AT3G52430 (Interacts_With) AT4G25470",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT3G52430 (Interacts_With) AT4G25470",
+        "interaction" : "Interacts_With",
+        "SUID" : 494065,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494064",
+        "source" : "451964",
+        "target" : "455697",
+        "shared_name" : "AT3G52430 (Interacts_With) AT4G25480",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT3G52430 (Interacts_With) AT4G25480",
+        "interaction" : "Interacts_With",
+        "SUID" : 494064,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494063",
+        "source" : "493963",
+        "target" : "452660",
+        "shared_name" : "AT4G25470 (Interacts_With) AT4G25490",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT4G25470 (Interacts_With) AT4G25490",
+        "interaction" : "Interacts_With",
+        "SUID" : 494063,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494062",
+        "source" : "455697",
+        "target" : "452660",
+        "shared_name" : "AT4G25480 (Interacts_With) AT4G25490",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT4G25480 (Interacts_With) AT4G25490",
+        "interaction" : "Interacts_With",
+        "SUID" : 494062,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494061",
+        "source" : "454388",
+        "target" : "456915",
+        "shared_name" : "AT1G76260 (Interacts_With) AT5G46210",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G76260 (Interacts_With) AT5G46210",
+        "interaction" : "Interacts_With",
+        "SUID" : 494061,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494060",
+        "source" : "454388",
+        "target" : "493962",
+        "shared_name" : "AT1G76260 (Interacts_With) AT5G67030",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G76260 (Interacts_With) AT5G67030",
+        "interaction" : "Interacts_With",
+        "SUID" : 494060,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494059",
+        "source" : "493961",
+        "target" : "452445",
+        "shared_name" : "AT1G76420 (Interacts_With) AT3G15170",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G76420 (Interacts_With) AT3G15170",
+        "interaction" : "Interacts_With",
+        "SUID" : 494059,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494058",
+        "source" : "457485",
+        "target" : "453415",
+        "shared_name" : "AT1G77850 (Interacts_With) AT2G37260",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G77850 (Interacts_With) AT2G37260",
+        "interaction" : "Interacts_With",
+        "SUID" : 494058,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494057",
+        "source" : "457485",
+        "target" : "459232",
+        "shared_name" : "AT1G77850 (Interacts_With) AT5G37020",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G77850 (Interacts_With) AT5G37020",
+        "interaction" : "Interacts_With",
+        "SUID" : 494057,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494056",
+        "source" : "493960",
+        "target" : "493979",
+        "shared_name" : "AT1G78390 (Interacts_With) AT4G18350",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G78390 (Interacts_With) AT4G18350",
+        "interaction" : "Interacts_With",
+        "SUID" : 494056,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494055",
+        "source" : "493960",
+        "target" : "456625",
+        "shared_name" : "AT1G78390 (Interacts_With) AT5G62470",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G78390 (Interacts_With) AT5G62470",
+        "interaction" : "Interacts_With",
+        "SUID" : 494055,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494054",
+        "source" : "493959",
+        "target" : "458952",
+        "shared_name" : "AT1G79460 (Interacts_With) AT2G36270",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G79460 (Interacts_With) AT2G36270",
+        "interaction" : "Interacts_With",
+        "SUID" : 494054,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494053",
+        "source" : "493959",
+        "target" : "453082",
+        "shared_name" : "AT1G79460 (Interacts_With) AT2G40220",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G79460 (Interacts_With) AT2G40220",
+        "interaction" : "Interacts_With",
+        "SUID" : 494053,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494052",
+        "source" : "493958",
+        "target" : "459760",
+        "shared_name" : "AT2G30420 (Interacts_With) AT5G41315",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G30420 (Interacts_With) AT5G41315",
+        "interaction" : "Interacts_With",
+        "SUID" : 494052,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494051",
+        "source" : "453353",
+        "target" : "459760",
+        "shared_name" : "AT2G30424 (Interacts_With) AT5G41315",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G30424 (Interacts_With) AT5G41315",
+        "interaction" : "Interacts_With",
+        "SUID" : 494051,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494050",
+        "source" : "493957",
+        "target" : "459760",
+        "shared_name" : "AT2G30432 (Interacts_With) AT5G41315",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G30432 (Interacts_With) AT5G41315",
+        "interaction" : "Interacts_With",
+        "SUID" : 494050,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494049",
+        "source" : "457609",
+        "target" : "459760",
+        "shared_name" : "AT3G27920 (Interacts_With) AT5G41315",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT3G27920 (Interacts_With) AT5G41315",
+        "interaction" : "Interacts_With",
+        "SUID" : 494049,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494048",
+        "source" : "493956",
+        "target" : "456239",
+        "shared_name" : "AT1G80730 (Interacts_With) AT3G54320",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G80730 (Interacts_With) AT3G54320",
+        "interaction" : "Interacts_With",
+        "SUID" : 494048,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494047",
+        "source" : "493956",
+        "target" : "493982",
+        "shared_name" : "AT1G80730 (Interacts_With) AT5G25160",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT1G80730 (Interacts_With) AT5G25160",
+        "interaction" : "Interacts_With",
+        "SUID" : 494047,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494046",
+        "source" : "453894",
+        "target" : "453688",
+        "shared_name" : "AT2G05990 (Interacts_With) AT2G29980",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G05990 (Interacts_With) AT2G29980",
+        "interaction" : "Interacts_With",
+        "SUID" : 494046,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494045",
+        "source" : "453894",
+        "target" : "453377",
+        "shared_name" : "AT2G05990 (Interacts_With) AT3G12120",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G05990 (Interacts_With) AT3G12120",
+        "interaction" : "Interacts_With",
+        "SUID" : 494045,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494044",
+        "source" : "453688",
+        "target" : "493953",
+        "shared_name" : "AT2G29980 (Interacts_With) AT4G34520",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G29980 (Interacts_With) AT4G34520",
+        "interaction" : "Interacts_With",
+        "SUID" : 494044,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494043",
+        "source" : "453688",
+        "target" : "493952",
+        "shared_name" : "AT2G29980 (Interacts_With) AT5G15530",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G29980 (Interacts_With) AT5G15530",
+        "interaction" : "Interacts_With",
+        "SUID" : 494043,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494042",
+        "source" : "453688",
+        "target" : "457089",
+        "shared_name" : "AT2G29980 (Interacts_With) AT5G35360",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G29980 (Interacts_With) AT5G35360",
+        "interaction" : "Interacts_With",
+        "SUID" : 494042,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494041",
+        "source" : "453377",
+        "target" : "493953",
+        "shared_name" : "AT3G12120 (Interacts_With) AT4G34520",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT3G12120 (Interacts_With) AT4G34520",
+        "interaction" : "Interacts_With",
+        "SUID" : 494041,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494040",
+        "source" : "453377",
+        "target" : "493952",
+        "shared_name" : "AT3G12120 (Interacts_With) AT5G15530",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT3G12120 (Interacts_With) AT5G15530",
+        "interaction" : "Interacts_With",
+        "SUID" : 494040,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494039",
+        "source" : "453377",
+        "target" : "457089",
+        "shared_name" : "AT3G12120 (Interacts_With) AT5G35360",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT3G12120 (Interacts_With) AT5G35360",
+        "interaction" : "Interacts_With",
+        "SUID" : 494039,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494038",
+        "source" : "454285",
+        "target" : "493963",
+        "shared_name" : "AT3G57260 (Interacts_With) AT4G25470",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT3G57260 (Interacts_With) AT4G25470",
+        "interaction" : "Interacts_With",
+        "SUID" : 494038,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494037",
+        "source" : "454285",
+        "target" : "455697",
+        "shared_name" : "AT3G57260 (Interacts_With) AT4G25480",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT3G57260 (Interacts_With) AT4G25480",
+        "interaction" : "Interacts_With",
+        "SUID" : 494037,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494036",
+        "source" : "454285",
+        "target" : "452660",
+        "shared_name" : "AT3G57260 (Interacts_With) AT4G25490",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT3G57260 (Interacts_With) AT4G25490",
+        "interaction" : "Interacts_With",
+        "SUID" : 494036,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494035",
+        "source" : "456300",
+        "target" : "456915",
+        "shared_name" : "AT2G19430 (Interacts_With) AT5G46210",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G19430 (Interacts_With) AT5G46210",
+        "interaction" : "Interacts_With",
+        "SUID" : 494035,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494034",
+        "source" : "456300",
+        "target" : "493962",
+        "shared_name" : "AT2G19430 (Interacts_With) AT5G67030",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G19430 (Interacts_With) AT5G67030",
+        "interaction" : "Interacts_With",
+        "SUID" : 494034,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494033",
+        "source" : "459538",
+        "target" : "458302",
+        "shared_name" : "AT2G20180 (Interacts_With) AT2G34640",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G20180 (Interacts_With) AT2G34640",
+        "interaction" : "Interacts_With",
+        "SUID" : 494033,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494032",
+        "source" : "459538",
+        "target" : "453005",
+        "shared_name" : "AT2G20180 (Interacts_With) AT3G50330",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G20180 (Interacts_With) AT3G50330",
+        "interaction" : "Interacts_With",
+        "SUID" : 494032,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494031",
+        "source" : "459538",
+        "target" : "456621",
+        "shared_name" : "AT2G20180 (Interacts_With) AT5G67060",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G20180 (Interacts_With) AT5G67060",
+        "interaction" : "Interacts_With",
+        "SUID" : 494031,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494030",
+        "source" : "453005",
+        "target" : "456621",
+        "shared_name" : "AT3G50330 (Interacts_With) AT5G67060",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT3G50330 (Interacts_With) AT5G67060",
+        "interaction" : "Interacts_With",
+        "SUID" : 494030,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494029",
+        "source" : "454912",
+        "target" : "493955",
+        "shared_name" : "AT2G23380 (Interacts_With) AT2G25095",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G23380 (Interacts_With) AT2G25095",
+        "interaction" : "Interacts_With",
+        "SUID" : 494029,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494028",
+        "source" : "454912",
+        "target" : "493954",
+        "shared_name" : "AT2G23380 (Interacts_With) AT4G31877",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G23380 (Interacts_With) AT4G31877",
+        "interaction" : "Interacts_With",
+        "SUID" : 494028,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494027",
+        "source" : "493955",
+        "target" : "459505",
+        "shared_name" : "AT2G25095 (Interacts_With) AT4G02020",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G25095 (Interacts_With) AT4G02020",
+        "interaction" : "Interacts_With",
+        "SUID" : 494027,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494026",
+        "source" : "459505",
+        "target" : "493954",
+        "shared_name" : "AT4G02020 (Interacts_With) AT4G31877",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT4G02020 (Interacts_With) AT4G31877",
+        "interaction" : "Interacts_With",
+        "SUID" : 494026,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494025",
+        "source" : "459675",
+        "target" : "458434",
+        "shared_name" : "AT2G44950 (Interacts_With) AT3G24650",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G44950 (Interacts_With) AT3G24650",
+        "interaction" : "Interacts_With",
+        "SUID" : 494025,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494024",
+        "source" : "459675",
+        "target" : "493974",
+        "shared_name" : "AT2G44950 (Interacts_With) AT4G37390",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G44950 (Interacts_With) AT4G37390",
+        "interaction" : "Interacts_With",
+        "SUID" : 494024,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494023",
+        "source" : "459675",
+        "target" : "457443",
+        "shared_name" : "AT2G44950 (Interacts_With) AT4G38130",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G44950 (Interacts_With) AT4G38130",
+        "interaction" : "Interacts_With",
+        "SUID" : 494023,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494022",
+        "source" : "459675",
+        "target" : "456971",
+        "shared_name" : "AT2G44950 (Interacts_With) AT5G63110",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G44950 (Interacts_With) AT5G63110",
+        "interaction" : "Interacts_With",
+        "SUID" : 494022,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494021",
+        "source" : "459675",
+        "target" : "493973",
+        "shared_name" : "AT2G44950 (Interacts_With) VAL1",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G44950 (Interacts_With) VAL1",
+        "interaction" : "Interacts_With",
+        "SUID" : 494021,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494020",
+        "source" : "458222",
+        "target" : "456975",
+        "shared_name" : "AT2G25490 (Interacts_With) AT3G20770",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G25490 (Interacts_With) AT3G20770",
+        "interaction" : "Interacts_With",
+        "SUID" : 494020,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494019",
+        "source" : "456975",
+        "target" : "454399",
+        "shared_name" : "AT3G20770 (Interacts_With) AT5G25350",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT3G20770 (Interacts_With) AT5G25350",
+        "interaction" : "Interacts_With",
+        "SUID" : 494019,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494018",
+        "source" : "457112",
+        "target" : "459437",
+        "shared_name" : "AT3G22942 (Interacts_With) AT4G34460",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT3G22942 (Interacts_With) AT4G34460",
+        "interaction" : "Interacts_With",
+        "SUID" : 494018,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494017",
+        "source" : "458082",
+        "target" : "459437",
+        "shared_name" : "AT3G63420 (Interacts_With) AT4G34460",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT3G63420 (Interacts_With) AT4G34460",
+        "interaction" : "Interacts_With",
+        "SUID" : 494017,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494016",
+        "source" : "457330",
+        "target" : "458443",
+        "shared_name" : "AT2G33460 (Interacts_With) AT3G48040",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G33460 (Interacts_With) AT3G48040",
+        "interaction" : "Interacts_With",
+        "SUID" : 494016,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494015",
+        "source" : "457330",
+        "target" : "493951",
+        "shared_name" : "AT2G33460 (Interacts_With) AT4G28950",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G33460 (Interacts_With) AT4G28950",
+        "interaction" : "Interacts_With",
+        "SUID" : 494015,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494014",
+        "source" : "493950",
+        "target" : "457447",
+        "shared_name" : "AT2G35230 (Interacts_With) AT4G36920",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G35230 (Interacts_With) AT4G36920",
+        "interaction" : "Interacts_With",
+        "SUID" : 494014,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494013",
+        "source" : "493950",
+        "target" : "459229",
+        "shared_name" : "AT2G35230 (Interacts_With) AT5G62000",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G35230 (Interacts_With) AT5G62000",
+        "interaction" : "Interacts_With",
+        "SUID" : 494013,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494012",
+        "source" : "458405",
+        "target" : "456239",
+        "shared_name" : "AT2G38880 (Interacts_With) AT3G54320",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G38880 (Interacts_With) AT3G54320",
+        "interaction" : "Interacts_With",
+        "SUID" : 494012,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494011",
+        "source" : "456360",
+        "target" : "458172",
+        "shared_name" : "AT2G42830 (Interacts_With) AT3G57670",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G42830 (Interacts_With) AT3G57670",
+        "interaction" : "Interacts_With",
+        "SUID" : 494011,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494010",
+        "source" : "456360",
+        "target" : "456351",
+        "shared_name" : "AT2G42830 (Interacts_With) AT5G23260",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT2G42830 (Interacts_With) AT5G23260",
+        "interaction" : "Interacts_With",
+        "SUID" : 494010,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494009",
+        "source" : "458172",
+        "target" : "456355",
+        "shared_name" : "AT3G57670 (Interacts_With) AT3G58780",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT3G57670 (Interacts_With) AT3G58780",
+        "interaction" : "Interacts_With",
+        "SUID" : 494009,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494008",
+        "source" : "458172",
+        "target" : "454079",
+        "shared_name" : "AT3G57670 (Interacts_With) AT4G37930",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT3G57670 (Interacts_With) AT4G37930",
+        "interaction" : "Interacts_With",
+        "SUID" : 494008,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494007",
+        "source" : "458172",
+        "target" : "456391",
+        "shared_name" : "AT3G57670 (Interacts_With) AT5G02030",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT3G57670 (Interacts_With) AT5G02030",
+        "interaction" : "Interacts_With",
+        "SUID" : 494007,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494006",
+        "source" : "458172",
+        "target" : "456349",
+        "shared_name" : "AT3G57670 (Interacts_With) AT5G60910",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT3G57670 (Interacts_With) AT5G60910",
+        "interaction" : "Interacts_With",
+        "SUID" : 494006,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494005",
+        "source" : "493949",
+        "target" : "493948",
+        "shared_name" : "AT3G05020 (Interacts_With) AT3G27785",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT3G05020 (Interacts_With) AT3G27785",
+        "interaction" : "Interacts_With",
+        "SUID" : 494005,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494004",
+        "source" : "493949",
+        "target" : "493947",
+        "shared_name" : "AT3G05020 (Interacts_With) AT5G40360",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT3G05020 (Interacts_With) AT5G40360",
+        "interaction" : "Interacts_With",
+        "SUID" : 494004,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494003",
+        "source" : "459769",
+        "target" : "459768",
+        "shared_name" : "AT4G18620 (Interacts_With) AT4G26080",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT4G18620 (Interacts_With) AT4G26080",
+        "interaction" : "Interacts_With",
+        "SUID" : 494003,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494002",
+        "source" : "459769",
+        "target" : "459766",
+        "shared_name" : "AT4G18620 (Interacts_With) AT5G57050",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT4G18620 (Interacts_With) AT5G57050",
+        "interaction" : "Interacts_With",
+        "SUID" : 494002,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494001",
+        "source" : "493946",
+        "target" : "493970",
+        "shared_name" : "AT3G13682 (Interacts_With) AT5G45830",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT3G13682 (Interacts_With) AT5G45830",
+        "interaction" : "Interacts_With",
+        "SUID" : 494001,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494000",
+        "source" : "493945",
+        "target" : "493972",
+        "shared_name" : "AT3G19700 (Interacts_With) AT4G25350",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT3G19700 (Interacts_With) AT4G25350",
+        "interaction" : "Interacts_With",
+        "SUID" : 494000,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493999",
+        "source" : "459437",
+        "target" : "451189",
+        "shared_name" : "AT4G34460 (Interacts_With) AT5G20635",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT4G34460 (Interacts_With) AT5G20635",
+        "interaction" : "Interacts_With",
+        "SUID" : 493999,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493998",
+        "source" : "493944",
+        "target" : "493979",
+        "shared_name" : "AT3G24220 (Interacts_With) AT4G18350",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT3G24220 (Interacts_With) AT4G18350",
+        "interaction" : "Interacts_With",
+        "SUID" : 493998,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493997",
+        "source" : "493944",
+        "target" : "456625",
+        "shared_name" : "AT3G24220 (Interacts_With) AT5G62470",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT3G24220 (Interacts_With) AT5G62470",
+        "interaction" : "Interacts_With",
+        "SUID" : 493997,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493996",
+        "source" : "456973",
+        "target" : "493978",
+        "shared_name" : "AT3G27810 (Interacts_With) AT5G23960",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT3G27810 (Interacts_With) AT5G23960",
+        "interaction" : "Interacts_With",
+        "SUID" : 493996,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493995",
+        "source" : "453292",
+        "target" : "493943",
+        "shared_name" : "AT3G28910 (Interacts_With) AT5G18650",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT3G28910 (Interacts_With) AT5G18650",
+        "interaction" : "Interacts_With",
+        "SUID" : 493995,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493994",
+        "source" : "453292",
+        "target" : "456625",
+        "shared_name" : "AT3G28910 (Interacts_With) AT5G62470",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT3G28910 (Interacts_With) AT5G62470",
+        "interaction" : "Interacts_With",
+        "SUID" : 493994,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493993",
+        "source" : "493943",
+        "target" : "456625",
+        "shared_name" : "AT5G18650 (Interacts_With) AT5G62470",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT5G18650 (Interacts_With) AT5G62470",
+        "interaction" : "Interacts_With",
+        "SUID" : 493993,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493992",
+        "source" : "456355",
+        "target" : "456351",
+        "shared_name" : "AT3G58780 (Interacts_With) AT5G23260",
+        "shared_interaction" : "Interacts_With",
+        "name" : "AT3G58780 (Interacts_With) AT5G23260",
+        "interaction" : "Interacts_With",
+        "SUID" : 493992,
+        "Column_4" : "Automatic",
+        "selected" : false
+      },
+      "selected" : false
+    } ]
+  }
+}
