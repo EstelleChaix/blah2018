@@ -1,6 +1,6 @@
 [
 	{
-		"sourceid": "SeeDev-binary-10318690-1",
+		"sourceid": "10318690",
 		"denotations": [
 			{
 				"obj": "Pathway",
@@ -1638,10 +1638,10 @@
 				"subj": "185a6e9"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-10318690-3",
+		"sourceid": "10318690",
 		"denotations": [
 			{
 				"obj": "Protein",
@@ -2595,10 +2595,10 @@
 				"subj": "610f7aa"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-10662856-3",
+		"sourceid": "10662856",
 		"denotations": [
 			{
 				"obj": "Tissue",
@@ -3128,10 +3128,10 @@
 				"subj": "5fd4f8f5"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-11489176-5",
+		"sourceid": "11489176",
 		"denotations": [
 			{
 				"obj": "Environmental_Factor",
@@ -5285,10 +5285,10 @@
 				"subj": "2ed2d9cb"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-11489176-6",
+		"sourceid": "11489176",
 		"denotations": [
 			{
 				"obj": "Genotype",
@@ -5381,10 +5381,10 @@
 		],
 		"text": "In contrast, the effects of the dominant negative abi1-1 mutation have relatively limited overlap with those of mutations in ABI3, ABI4 or ABI5. Although double mutants combining abi1-1 with any of the transcription factor mutations show significantly enhanced resistance to ABA\n",
 		"relations": [],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-14701918-6",
+		"sourceid": "14701918",
 		"denotations": [
 			{
 				"obj": "Gene",
@@ -6296,10 +6296,10 @@
 				"subj": "173ed316"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-15708976-1",
+		"sourceid": "15708976",
 		"denotations": [
 			{
 				"obj": "Tissue",
@@ -6947,10 +6947,10 @@
 				"subj": "496bc455"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-16387832-1",
+		"sourceid": "16387832",
 		"denotations": [
 			{
 				"obj": "Gene",
@@ -7466,10 +7466,10 @@
 				"subj": "1c742ed4"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-16492731-1",
+		"sourceid": "16492731",
 		"denotations": [
 			{
 				"obj": "Protein_Family",
@@ -7953,10 +7953,10 @@
 				"subj": "1f9f6368"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-16492731-2",
+		"sourceid": "16492731",
 		"denotations": [
 			{
 				"obj": "Regulatory_Network",
@@ -8794,10 +8794,10 @@
 				"subj": "376a0d86"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-16492731-3",
+		"sourceid": "16492731",
 		"denotations": [
 			{
 				"obj": "RNA",
@@ -9269,10 +9269,10 @@
 				"subj": "3cfdd820"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-17204538-1",
+		"sourceid": "17204538",
 		"denotations": [
 			{
 				"obj": "Gene",
@@ -9798,10 +9798,10 @@
 				"subj": "1130520d"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-17999645-3",
+		"sourceid": "17999645",
 		"denotations": [
 			{
 				"obj": "Protein",
@@ -10535,10 +10535,10 @@
 				"subj": "1b8a29df"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-17999645-7",
+		"sourceid": "17999645",
 		"denotations": [
 			{
 				"obj": "Regulatory_Network",
@@ -11764,10 +11764,10 @@
 				"subj": "3c01cfa1"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-19594710-1",
+		"sourceid": "19594710",
 		"denotations": [
 			{
 				"obj": "Pathway",
@@ -12583,10 +12583,10 @@
 				"subj": "60410cd"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-19594710-2",
+		"sourceid": "19594710",
 		"denotations": [
 			{
 				"obj": "Genotype",
@@ -14056,10 +14056,10 @@
 				"subj": "a4add54"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-19594710-3",
+		"sourceid": "19594710",
 		"denotations": [
 			{
 				"obj": "Genotype",
@@ -14691,10 +14691,10 @@
 				"subj": "388526fb"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-19594710-5",
+		"sourceid": "19594710",
 		"denotations": [
 			{
 				"obj": "Regulatory_Network",
@@ -15226,10 +15226,10 @@
 				"subj": "176b3f44"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-19719479-1",
+		"sourceid": "19719479",
 		"denotations": [
 			{
 				"obj": "Gene",
@@ -15725,10 +15725,10 @@
 				"subj": "495fac5f"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-21123653-2",
+		"sourceid": "21123653",
 		"denotations": [
 			{
 				"obj": "Development_Phase",
@@ -17022,10 +17022,10 @@
 				"subj": "55dfebeb"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-21123653-6",
+		"sourceid": "21123653",
 		"denotations": [
 			{
 				"obj": "RNA",
@@ -17911,10 +17911,10 @@
 				"subj": "366c4480"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-21330492-1",
+		"sourceid": "21330492",
 		"denotations": [
 			{
 				"obj": "Protein_Family",
@@ -20762,10 +20762,10 @@
 				"subj": "1f2f9244"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-21330492-2",
+		"sourceid": "21330492",
 		"denotations": [
 			{
 				"obj": "RNA",
@@ -21009,10 +21009,10 @@
 				"subj": "435871cb"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-21330492-7",
+		"sourceid": "21330492",
 		"denotations": [
 			{
 				"obj": "Development_Phase",
@@ -21328,10 +21328,10 @@
 				"subj": "285c08c8"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-21330492-8",
+		"sourceid": "21330492",
 		"denotations": [
 			{
 				"obj": "Development_Phase",
@@ -21449,10 +21449,10 @@
 				"subj": "2bef51f2"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-21635767-2",
+		"sourceid": "21635767",
 		"denotations": [
 			{
 				"obj": "Protein",
@@ -22440,10 +22440,10 @@
 				"subj": "26a4842b"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-21635767-3",
+		"sourceid": "21635767",
 		"denotations": [
 			{
 				"obj": "Development_Phase",
@@ -23659,10 +23659,10 @@
 				"subj": "f74e835"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-9657152-3",
+		"sourceid": "9657152",
 		"denotations": [
 			{
 				"obj": "Protein_Family",
@@ -24072,10 +24072,10 @@
 				"subj": "69c79f09"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-9807814-2",
+		"sourceid": "9807814",
 		"denotations": [
 			{
 				"obj": "Gene_Family",
@@ -24607,6 +24607,6 @@
 			}
 		],
 		"text": "In line with the conclusions of Hughes & Galau (1989), the developmental pleiotropic and stage-specific phenotype of fus3 mutants reveals a program of late embryonic and early postembryonic development consisting of subsequent, temporally arranged modular units. Accordingly, the FUS3 gene promotes the unit responsible for seed maturation following earlier steps of morphogenesis and tissue differentiation. Loss of FUS3 function can be interpreted as a tendency to shortcut the pathway. While the fus3 embryo is still contained within the silique, seed maturation is left out and the following unit, germination, becomes active prematurely. The presence of typical vegetative traits such as, for instance, an active shoot apical meristem between cotyledons carrying trichomes (Meinke et al. 1994) supports this view by morphological criteria. On the molecular level, genes encoding MYB-family transcription factors which are typically expressed during germination and later, but not during the seed ripening phase, are actively transcribed in mutant fus3 seeds (Kirik et al. 1998). Moreover, it has been shown that in the fus3 background seed-specific promoters of storage protein genes are inactive in embryonic tissues (Bäumlein et al. 1994). Therefore, in analogy to Arabidopsis genes such as APETALA 1 or LEAFY which control the identity of the shoot apical meristem during postembryonic development (Mandel & Yanofsky 1995;Weigel & Nilsson 1995), FUS3 activity is essential for the zygotic seed tissue to maintain its stage-specific identity of a maturing embryo at the expense of a default tissue identity corresponding to a vegetatively growing postembryonic plant.\nIn Arabidopsis and maize a phenotype, comparable to the Fus3– syndrome with respect to storage, germination behaviour and desiccation tolerance is caused by strong recessive mutations in the genes abscisic acid insensitive 3 (ABI3;Nambara et al. 1992 ;Nambara et al. 1994 ;Ooms et al. 1993) and viviparous 1 (VP1;McCarty et al. 1989 ;McCarty 1995). Both genes have been cloned (Giraudat et al. 1992 ;McCarty et al. 1991) and show sequence similarity on the amino acid level. This raises the question whether FUS3 in Arabidopsis is related to Vp1 and AB13 molecularly.\nThe present paper reports the isolation of the FUS3 gene of Arabidopsis thaliana by positional cloning. The salient features of the deduced FUS3 amino acid sequence reveal a region of high sequence similarity with Vp1/ABI3-like proteins. Sequence analysis of mutant fus3 alleles predicts that even minor changes affecting this conserved region are associated with defective seed maturation.\n",
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	}
 ]

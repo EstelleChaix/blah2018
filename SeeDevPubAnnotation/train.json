@@ -1,6 +1,6 @@
 [
 	{
-		"sourceid": "SeeDev-binary-10662856-1",
+		"sourceid": "10662856",
 		"denotations": [
 			{
 				"obj": "Protein_Family",
@@ -1460,10 +1460,10 @@
 				"subj": "bccb269"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-10662856-2",
+		"sourceid": "10662856",
 		"denotations": [
 			{
 				"obj": "Development_Phase",
@@ -2101,10 +2101,10 @@
 				"subj": "2b4bac49"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-11489176-1",
+		"sourceid": "11489176",
 		"denotations": [
 			{
 				"obj": "Protein",
@@ -2434,10 +2434,10 @@
 				"subj": "4f67eb2a"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-11489176-3",
+		"sourceid": "11489176",
 		"denotations": [
 			{
 				"obj": "Protein_Domain",
@@ -3191,10 +3191,10 @@
 				"subj": "34f5090e"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-11489176-4",
+		"sourceid": "11489176",
 		"denotations": [
 			{
 				"obj": "Protein",
@@ -3262,10 +3262,10 @@
 				"subj": "2df9b86"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-11573014-1",
+		"sourceid": "11573014",
 		"denotations": [
 			{
 				"obj": "Tissue",
@@ -5139,10 +5139,10 @@
 				"subj": "662b4c69"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-11573014-3",
+		"sourceid": "11573014",
 		"denotations": [
 			{
 				"obj": "Protein",
@@ -5756,10 +5756,10 @@
 				"subj": "117159c0"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-11573014-4",
+		"sourceid": "11573014",
 		"denotations": [
 			{
 				"obj": "Tissue",
@@ -7381,10 +7381,10 @@
 				"subj": "8458f04"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-14701918-1",
+		"sourceid": "14701918",
 		"denotations": [
 			{
 				"obj": "Pathway",
@@ -7952,10 +7952,10 @@
 				"subj": "660acfb"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-14701918-3",
+		"sourceid": "14701918",
 		"denotations": [
 			{
 				"obj": "Genotype",
@@ -9059,10 +9059,10 @@
 				"subj": "c667f46"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-14701918-4",
+		"sourceid": "14701918",
 		"denotations": [
 			{
 				"obj": "Gene",
@@ -9784,10 +9784,10 @@
 				"subj": "6dd7b5a3"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-14701918-7",
+		"sourceid": "14701918",
 		"denotations": [
 			{
 				"obj": "Regulatory_Network",
@@ -9873,10 +9873,10 @@
 				"subj": "4bd31064"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-15708976-3",
+		"sourceid": "15708976",
 		"denotations": [
 			{
 				"obj": "Genotype",
@@ -13322,10 +13322,10 @@
 				"subj": "14f9390f"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-16387832-2",
+		"sourceid": "16387832",
 		"denotations": [
 			{
 				"obj": "Tissue",
@@ -14379,10 +14379,10 @@
 				"subj": "34158c08"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-16387832-3",
+		"sourceid": "16387832",
 		"denotations": [
 			{
 				"obj": "Genotype",
@@ -14898,10 +14898,10 @@
 				"subj": "7776ab"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-16473966-1",
+		"sourceid": "16473966",
 		"denotations": [
 			{
 				"obj": "Protein_Family",
@@ -15443,10 +15443,10 @@
 				"subj": "1a760689"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-16473966-2",
+		"sourceid": "16473966",
 		"denotations": [
 			{
 				"obj": "Protein_Family",
@@ -17382,10 +17382,10 @@
 				"subj": "2807bdeb"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-16473966-3",
+		"sourceid": "16473966",
 		"denotations": [
 			{
 				"obj": "Protein",
@@ -20055,10 +20055,10 @@
 				"subj": "53dacd14"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-17158584-1",
+		"sourceid": "17158584",
 		"denotations": [
 			{
 				"obj": "Protein",
@@ -22288,10 +22288,10 @@
 				"subj": "12bfd80d"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-17204538-2",
+		"sourceid": "17204538",
 		"denotations": [
 			{
 				"obj": "Protein_Family",
@@ -23307,10 +23307,10 @@
 				"subj": "55e8ec2f"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-17204538-4",
+		"sourceid": "17204538",
 		"denotations": [
 			{
 				"obj": "Protein",
@@ -23998,10 +23998,10 @@
 				"subj": "3a320ade"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-17204538-5",
+		"sourceid": "17204538",
 		"denotations": [
 			{
 				"obj": "RNA",
@@ -25007,10 +25007,10 @@
 				"subj": "46e8a539"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-17999645-2",
+		"sourceid": "17999645",
 		"denotations": [
 			{
 				"obj": "Genotype",
@@ -25402,10 +25402,10 @@
 				"subj": "3c9168dc"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-17999645-5",
+		"sourceid": "17999645",
 		"denotations": [
 			{
 				"obj": "Protein",
@@ -25823,10 +25823,10 @@
 				"subj": "a77614d"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-17999645-6",
+		"sourceid": "17999645",
 		"denotations": [
 			{
 				"obj": "Protein_Complex",
@@ -27136,10 +27136,10 @@
 				"subj": "29876704"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-19531597-1",
+		"sourceid": "19531597",
 		"denotations": [
 			{
 				"obj": "Protein_Family",
@@ -27505,10 +27505,10 @@
 				"subj": "bc57b40"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-19594710-4",
+		"sourceid": "19594710",
 		"denotations": [
 			{
 				"obj": "Development_Phase",
@@ -28462,10 +28462,10 @@
 				"subj": "408b35bf"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-19719479-3",
+		"sourceid": "19719479",
 		"denotations": [
 			{
 				"obj": "Tissue",
@@ -29223,10 +29223,10 @@
 				"subj": "20312893"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-19719479-4",
+		"sourceid": "19719479",
 		"denotations": [
 			{
 				"obj": "Protein",
@@ -29576,10 +29576,10 @@
 				"subj": "1804f60d"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-21123653-1",
+		"sourceid": "21123653",
 		"denotations": [
 			{
 				"obj": "Genotype",
@@ -30083,10 +30083,10 @@
 				"subj": "2c22a348"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-21123653-4",
+		"sourceid": "21123653",
 		"denotations": [
 			{
 				"obj": "Tissue",
@@ -30930,10 +30930,10 @@
 				"subj": "11ee02f8"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-21123653-5",
+		"sourceid": "21123653",
 		"denotations": [
 			{
 				"obj": "Regulatory_Network",
@@ -33077,10 +33077,10 @@
 				"subj": "4fdf8f12"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-21330492-3",
+		"sourceid": "21330492",
 		"denotations": [
 			{
 				"obj": "Regulatory_Network",
@@ -33566,10 +33566,10 @@
 				"subj": "3961a41a"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-21330492-4",
+		"sourceid": "21330492",
 		"denotations": [
 			{
 				"obj": "Genotype",
@@ -34023,10 +34023,10 @@
 				"subj": "288a4658"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-21330492-6",
+		"sourceid": "21330492",
 		"denotations": [
 			{
 				"obj": "Protein",
@@ -34424,10 +34424,10 @@
 				"subj": "547c04c4"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-21635767-1",
+		"sourceid": "21635767",
 		"denotations": [
 			{
 				"obj": "Protein_Family",
@@ -34779,10 +34779,10 @@
 				"subj": "4a60ee36"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-21635767-5",
+		"sourceid": "21635767",
 		"denotations": [
 			{
 				"obj": "Gene",
@@ -35052,10 +35052,10 @@
 				"subj": "1c6e0a08"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-9657152-1",
+		"sourceid": "9657152",
 		"denotations": [
 			{
 				"obj": "Tissue",
@@ -35489,10 +35489,10 @@
 				"subj": "12477988"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	},
 	{
-		"sourceid": "SeeDev-binary-9807814-3",
+		"sourceid": "9807814",
 		"denotations": [
 			{
 				"obj": "Protein_Domain",
@@ -36188,6 +36188,6 @@
 				"subj": "29a23c3d"
 			}
 		],
-		"sourcedb": "BioNLP-ST-2016"
+		"sourcedb": "PubMed"
 	}
 ]
