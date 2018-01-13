@@ -1,6 +1,6 @@
 [
 	{
-		"sourceid": "10318690",
+		"sourceid": "PMC59244",
 		"denotations": [
 			{
 				"obj": "Development_Phase",
@@ -1486,10 +1486,10 @@
 				"subj": "1d296da"
 			}
 		],
-		"sourcedb": "PubMed"
+		"sourcedb": "PMC"
 	},
 	{
-		"sourceid": "10662856",
+		"sourceid": "PMC139757",
 		"denotations": [
 			{
 				"obj": "Development_Phase",
@@ -2023,7 +2023,7 @@
 				"subj": "2118cddf"
 			}
 		],
-		"sourcedb": "PubMed"
+		"sourcedb": "PMC"
 	},
 	{
 		"sourceid": "11489176",
@@ -4242,10 +4242,10 @@
 				"subj": "4d910fd6"
 			}
 		],
-		"sourcedb": "PubMed"
+		"sourcedb": "PMC"
 	},
 	{
-		"sourceid": "11573014",
+		"sourceid": "PMC58812",
 		"denotations": [
 			{
 				"obj": "Development_Phase",
@@ -4357,10 +4357,10 @@
 				"subj": "52af26ee"
 			}
 		],
-		"sourcedb": "PubMed"
+		"sourcedb": "PMC"
 	},
 	{
-		"sourceid": "14701918",
+		"sourceid": "PMC316309",
 		"denotations": [
 			{
 				"obj": "Tissue",
@@ -4528,10 +4528,10 @@
 				"subj": "2c1b194a"
 			}
 		],
-		"sourcedb": "PubMed"
+		"sourcedb": "PMC"
 	},
 	{
-		"sourceid": "14701918",
+		"sourceid": "PMC316309",
 		"denotations": [
 			{
 				"obj": "Protein_Family",
@@ -5343,10 +5343,10 @@
 				"subj": "1a6d8329"
 			}
 		],
-		"sourcedb": "PubMed"
+		"sourcedb": "PMC"
 	},
 	{
-		"sourceid": "14701918",
+		"sourceid": "PMC316309",
 		"denotations": [
 			{
 				"obj": "Regulatory_Network",
@@ -5558,10 +5558,10 @@
 				"subj": "5b1669c0"
 			}
 		],
-		"sourcedb": "PubMed"
+		"sourcedb": "PMC"
 	},
 	{
-		"sourceid": "15708976",
+		"sourceid": "PMC549491",
 		"denotations": [
 			{
 				"obj": "Gene",
@@ -6791,10 +6791,10 @@
 				"subj": "231f98ef"
 			}
 		],
-		"sourcedb": "PubMed"
+		"sourcedb": "PMC"
 	},
 	{
-		"sourceid": "17204538",
+		"sourceid": "PMC2803001",
 		"denotations": [
 			{
 				"obj": "Tissue",
@@ -7580,7 +7580,7 @@
 				"subj": "239a307b"
 			}
 		],
-		"sourcedb": "PubMed"
+		"sourcedb": "PMC"
 	},
 	{
 		"sourceid": "17999645",
@@ -8919,7 +8919,7 @@
 				"subj": "13df2a8c"
 			}
 		],
-		"sourcedb": "PubMed"
+		"sourcedb": "PMC"
 	},
 	{
 		"sourceid": "17999645",
@@ -9290,10 +9290,10 @@
 				"subj": "4bc222e"
 			}
 		],
-		"sourcedb": "PubMed"
+		"sourcedb": "PMC"
 	},
 	{
-		"sourceid": "19531597",
+		"sourceid": "PMC2714925",
 		"denotations": [
 			{
 				"obj": "Development_Phase",
@@ -10335,7 +10335,7 @@
 				"subj": "37911f88"
 			}
 		],
-		"sourcedb": "PubMed"
+		"sourcedb": "PMC"
 	},
 	{
 		"sourceid": "19719479",
@@ -12104,10 +12104,10 @@
 				"subj": "3370f42"
 			}
 		],
-		"sourcedb": "PubMed"
+		"sourcedb": "PMC"
 	},
 	{
-		"sourceid": "21123653",
+		"sourceid": "PMC2994041",
 		"denotations": [
 			{
 				"obj": "Development_Phase",
@@ -12157,10 +12157,10 @@
 				"subj": "457c9034"
 			}
 		],
-		"sourcedb": "PubMed"
+		"sourcedb": "PMC"
 	},
 	{
-		"sourceid": "21123653",
+		"sourceid": "PMC2994041",
 		"denotations": [
 			{
 				"obj": "Tissue",
@@ -14814,10 +14814,10 @@
 				"subj": "32c726ee"
 			}
 		],
-		"sourcedb": "PubMed"
+		"sourcedb": "PMC"
 	},
 	{
-		"sourceid": "21330492",
+		"sourceid": "PMC3091098",
 		"denotations": [
 			{
 				"obj": "Genotype",
@@ -14961,10 +14961,10 @@
 				"subj": "5b1ebf56"
 			}
 		],
-		"sourcedb": "PubMed"
+		"sourcedb": "PMC"
 	},
 	{
-		"sourceid": "21635767",
+		"sourceid": "PMC3126783",
 		"denotations": [
 			{
 				"obj": "Gene_Family",
@@ -15614,7 +15614,7 @@
 				"subj": "4f1bfe23"
 			}
 		],
-		"sourcedb": "PubMed"
+		"sourcedb": "PMC"
 	},
 	{
 		"sourceid": "9657152",
@@ -17611,7 +17611,7 @@
 				"subj": "6399551e"
 			}
 		],
-		"sourcedb": "PubMed"
+		"sourcedb": "PMC"
 	},
 	{
 		"sourceid": "9807814",
@@ -17938,6 +17938,6 @@
 				"subj": "7e5d9a50"
 			}
 		],
-		"sourcedb": "PubMed"
+		"sourcedb": "PMC"
 	}
 ]
